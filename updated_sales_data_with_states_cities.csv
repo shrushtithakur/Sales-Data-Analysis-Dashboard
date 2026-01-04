@@ -1,0 +1,577 @@
+Date,Region,Product,UnitsSold,Revenue,Discount,Profit,Customer Name,Customer ID,Unnamed: 9,Postal Code,Product ID,Order ID,Row ID,Ship Mode,Ship Date,Segment,Category,Sub-Category,Country,State,City
+01-01-2021,North,Electronics,152,252168,20,34468.08,Customer 1,CUST-1000,,656931,PROD-2000,ORD-3000,1,Standard Class,19-01-2024,Consumer,Furniture,Storage,India,Maharashtra,Mumbai
+01-01-2021,North,Clothing,121,232804,20,30544.75,Customer 2,CUST-1001,,134477,PROD-2001,ORD-3001,2,Standard Class,21-01-2024,Consumer,Office Supplies,Binders,India,Karnataka,Bengaluru
+01-01-2021,North,Furniture,264,139920,10,38231.07,Customer 3,CUST-1002,,693311,PROD-2002,ORD-3002,3,Standard Class,05-01-2024,Home Office,Office Supplies,Accessories,India,Tamil Nadu,Chennai
+01-01-2021,North,Groceries,149,159579,10,16614.87,Customer 4,CUST-1003,,330541,PROD-2003,ORD-3003,4,Same Day,07-01-2024,Home Office,Technology,Chairs,India,Kerala,Kochi
+01-01-2021,South,Electronics,307,166701,15,47961.64,Customer 5,CUST-1004,,363165,PROD-2004,ORD-3004,5,Second Class,15-01-2024,Consumer,Office Supplies,Storage,India,Gujarat,Ahmedabad
+01-01-2021,South,Clothing,435,615525,15,84130.51,Customer 6,CUST-1005,,188044,PROD-2005,ORD-3005,6,Second Class,24-01-2024,Consumer,Furniture,Tables,India,Rajasthan,Jaipur
+01-01-2021,South,Furniture,363,80223,20,14952.69,Customer 7,CUST-1006,,282030,PROD-2006,ORD-3006,7,First Class,24-01-2024,Home Office,Technology,Storage,India,Punjab,Ludhiana
+01-01-2021,South,Groceries,98,66052,10,11887.52,Customer 8,CUST-1007,,153454,PROD-2007,ORD-3007,8,Same Day,05-01-2024,Home Office,Furniture,Binders,India,Haryana,Gurugram
+01-01-2021,East,Electronics,237,278475,10,49148.72,Customer 9,CUST-1008,,679017,PROD-2008,ORD-3008,9,Second Class,04-01-2024,Home Office,Office Supplies,Storage,India,Uttar Pradesh,Lucknow
+01-01-2021,East,Clothing,293,302083,0,33014.68,Customer 10,CUST-1009,,267366,PROD-2009,ORD-3009,10,Same Day,04-01-2024,Consumer,Technology,Phones,India,Madhya Pradesh,Bhopal
+01-01-2021,East,Furniture,356,301176,20,57253.51,Customer 11,CUST-1010,,476075,PROD-2010,ORD-3010,11,Standard Class,19-01-2024,Consumer,Technology,Accessories,India,Bihar,Patna
+01-01-2021,East,Groceries,323,189601,0,55577.06,Customer 12,CUST-1011,,478321,PROD-2011,ORD-3011,12,Second Class,04-01-2024,Home Office,Office Supplies,Accessories,India,West Bengal,Kolkata
+01-01-2021,West,Electronics,291,284016,5,33949.69,Customer 13,CUST-1012,,897943,PROD-2012,ORD-3012,13,Second Class,03-01-2024,Home Office,Furniture,Binders,India,Odisha,Bhubaneswar
+01-01-2021,West,Clothing,389,113199,15,14082.82,Customer 14,CUST-1013,,892308,PROD-2013,ORD-3013,14,Second Class,13-01-2024,Consumer,Furniture,Storage,India,Telangana,Hyderabad
+01-01-2021,West,Furniture,313,73242,0,11114.91,Customer 15,CUST-1014,,754719,PROD-2014,ORD-3014,15,Standard Class,27-01-2024,Consumer,Technology,Chairs,India,Andhra Pradesh,Visakhapatnam
+01-01-2021,West,Groceries,409,658899,5,121916.86,Customer 16,CUST-1015,,775415,PROD-2015,ORD-3015,16,Same Day,03-01-2024,Corporate,Furniture,Phones,India,Chhattisgarh,Raipur
+01-02-2021,North,Electronics,103,136887,15,18749.53,Customer 17,CUST-1016,,177746,PROD-2016,ORD-3016,17,Same Day,20-01-2024,Corporate,Office Supplies,Accessories,India,Jharkhand,Ranchi
+01-02-2021,North,Clothing,240,144240,5,27398.51,Customer 18,CUST-1017,,129711,PROD-2017,ORD-3017,18,Same Day,10-01-2024,Corporate,Office Supplies,Storage,India,Assam,Guwahati
+01-02-2021,North,Furniture,251,299945,15,32707.64,Customer 19,CUST-1018,,257561,PROD-2018,ORD-3018,19,Same Day,25-01-2024,Consumer,Office Supplies,Storage,India,Himachal Pradesh,Shimla
+01-02-2021,North,Groceries,345,672060,20,103678.57,Customer 20,CUST-1019,,490802,PROD-2019,ORD-3019,20,Same Day,16-01-2024,Consumer,Technology,Phones,India,Uttarakhand,Dehradun
+01-02-2021,South,Electronics,102,101082,5,29622.19,Customer 21,CUST-1020,,853572,PROD-2020,ORD-3020,21,Same Day,19-01-2024,Consumer,Office Supplies,Accessories,India,Goa,Panaji
+01-02-2021,South,Clothing,237,137223,20,17589.91,Customer 22,CUST-1021,,778993,PROD-2021,ORD-3021,22,Same Day,06-01-2024,Corporate,Technology,Phones,India,Sikkim,Gangtok
+01-02-2021,South,Furniture,64,16896,0,5024.49,Customer 23,CUST-1022,,780662,PROD-2022,ORD-3022,23,Same Day,19-01-2024,Corporate,Technology,Tables,India,Maharashtra,Pune
+01-02-2021,South,Groceries,393,531336,15,84321.77,Customer 24,CUST-1023,,986636,PROD-2023,ORD-3023,24,Same Day,04-01-2024,Corporate,Furniture,Phones,India,Karnataka,Mysuru
+01-02-2021,East,Electronics,112,152544,10,36819.77,Customer 25,CUST-1024,,598753,PROD-2024,ORD-3024,25,Standard Class,11-01-2024,Home Office,Office Supplies,Tables,India,Tamil Nadu,Coimbatore
+01-02-2021,East,Clothing,212,131016,0,28979.69,Customer 26,CUST-1025,,491856,PROD-2025,ORD-3025,26,Standard Class,21-01-2024,Corporate,Furniture,Phones,India,Kerala,Thiruvananthapuram
+01-02-2021,East,Furniture,280,340760,0,96432.33,Customer 27,CUST-1026,,337852,PROD-2026,ORD-3026,27,Second Class,16-01-2024,Home Office,Office Supplies,Chairs,India,Gujarat,Surat
+01-02-2021,East,Groceries,250,244750,5,29145.33,Customer 28,CUST-1027,,706278,PROD-2027,ORD-3027,28,First Class,15-01-2024,Home Office,Office Supplies,Storage,India,Rajasthan,Udaipur
+01-02-2021,West,Electronics,456,819432,20,201515.73,Customer 29,CUST-1028,,672914,PROD-2028,ORD-3028,29,Second Class,08-01-2024,Consumer,Office Supplies,Chairs,India,Punjab,Amritsar
+01-02-2021,West,Clothing,409,378325,10,80298.98,Customer 30,CUST-1029,,822808,PROD-2029,ORD-3029,30,Standard Class,13-01-2024,Consumer,Furniture,Phones,India,Haryana,Faridabad
+01-02-2021,West,Furniture,276,224112,10,56511.41,Customer 31,CUST-1030,,341783,PROD-2030,ORD-3030,31,First Class,05-01-2024,Consumer,Furniture,Storage,India,Uttar Pradesh,Kanpur
+01-02-2021,West,Groceries,267,187434,10,38338.98,Customer 32,CUST-1031,,458296,PROD-2031,ORD-3031,32,Same Day,05-01-2024,Home Office,Furniture,Phones,India,Madhya Pradesh,Indore
+01-03-2021,North,Electronics,64,113728,15,13826.86,Customer 33,CUST-1032,,162373,PROD-2032,ORD-3032,33,Second Class,22-01-2024,Corporate,Office Supplies,Storage,India,Bihar,Gaya
+01-03-2021,North,Clothing,112,119056,0,19390.79,Customer 34,CUST-1033,,854477,PROD-2033,ORD-3033,34,Second Class,09-01-2024,Consumer,Office Supplies,Phones,India,West Bengal,Howrah
+01-03-2021,North,Furniture,145,283765,20,42524.58,Customer 35,CUST-1034,,282913,PROD-2034,ORD-3034,35,Standard Class,27-01-2024,Corporate,Office Supplies,Tables,India,Odisha,Cuttack
+01-03-2021,North,Groceries,286,537108,10,75523.96,Customer 36,CUST-1035,,690305,PROD-2035,ORD-3035,36,Standard Class,02-01-2024,Home Office,Office Supplies,Phones,India,Telangana,Warangal
+01-03-2021,South,Electronics,62,85746,10,20489.61,Customer 37,CUST-1036,,692438,PROD-2036,ORD-3036,37,Second Class,29-01-2024,Consumer,Office Supplies,Binders,India,Andhra Pradesh,Vijayawada
+01-03-2021,South,Clothing,333,258741,5,67692.88,Customer 38,CUST-1037,,577798,PROD-2037,ORD-3037,38,Standard Class,30-01-2024,Home Office,Furniture,Binders,India,Chhattisgarh,Bilaspur
+01-03-2021,South,Furniture,490,593880,15,154844.95,Customer 39,CUST-1038,,557730,PROD-2038,ORD-3038,39,First Class,14-01-2024,Corporate,Technology,Binders,India,Jharkhand,Jamshedpur
+01-03-2021,South,Groceries,93,145359,10,23965.19,Customer 40,CUST-1039,,933960,PROD-2039,ORD-3039,40,First Class,08-01-2024,Corporate,Furniture,Tables,India,Assam,Silchar
+01-03-2021,East,Electronics,397,673312,0,103977.18,Customer 41,CUST-1040,,197649,PROD-2040,ORD-3040,41,Same Day,19-01-2024,Consumer,Furniture,Storage,India,Himachal Pradesh,Solan
+01-03-2021,East,Clothing,332,276224,15,47100.0,Customer 42,CUST-1041,,170306,PROD-2041,ORD-3041,42,Same Day,28-01-2024,Home Office,Technology,Accessories,India,Uttarakhand,Haridwar
+01-03-2021,East,Furniture,308,487256,10,89402.8,Customer 43,CUST-1042,,400186,PROD-2042,ORD-3042,43,Same Day,04-01-2024,Corporate,Technology,Accessories,India,Goa,Margao
+01-03-2021,East,Groceries,214,309872,10,47683.87,Customer 44,CUST-1043,,880266,PROD-2043,ORD-3043,44,First Class,13-01-2024,Home Office,Office Supplies,Binders,India,Sikkim,Namchi
+01-03-2021,West,Electronics,201,320997,0,58025.74,Customer 45,CUST-1044,,561234,PROD-2044,ORD-3044,45,Same Day,20-01-2024,Consumer,Technology,Binders,India,Maharashtra,Nagpur
+01-03-2021,West,Clothing,367,631240,5,184631.05,Customer 46,CUST-1045,,652144,PROD-2045,ORD-3045,46,Second Class,29-01-2024,Consumer,Technology,Accessories,India,Karnataka,Mangaluru
+01-03-2021,West,Furniture,344,553496,10,88656.59,Customer 47,CUST-1046,,446559,PROD-2046,ORD-3046,47,Same Day,17-01-2024,Consumer,Furniture,Accessories,India,Tamil Nadu,Madurai
+01-03-2021,West,Groceries,162,186462,0,28595.1,Customer 48,CUST-1047,,652831,PROD-2047,ORD-3047,48,Same Day,12-01-2024,Consumer,Technology,Tables,India,Kerala,Kozhikode
+01-04-2021,North,Electronics,51,42891,15,4730.7,Customer 49,CUST-1048,,555712,PROD-2048,ORD-3048,49,Standard Class,15-01-2024,Home Office,Furniture,Accessories,India,Gujarat,Vadodara
+01-04-2021,North,Clothing,273,395304,0,58470.35,Customer 50,CUST-1049,,245005,PROD-2049,ORD-3049,50,Second Class,30-01-2024,Corporate,Office Supplies,Binders,India,Rajasthan,Jodhpur
+01-04-2021,North,Furniture,179,228404,15,43295.49,Customer 51,CUST-1050,,828160,PROD-2050,ORD-3050,51,Same Day,02-01-2024,Corporate,Furniture,Phones,India,Punjab,Jalandhar
+01-04-2021,North,Groceries,247,404833,15,47029.72,Customer 52,CUST-1051,,887184,PROD-2051,ORD-3051,52,Second Class,20-01-2024,Home Office,Technology,Storage,India,Haryana,Panipat
+01-04-2021,South,Electronics,233,75026,0,18429.63,Customer 53,CUST-1052,,708400,PROD-2052,ORD-3052,53,Standard Class,13-01-2024,Consumer,Office Supplies,Storage,India,Uttar Pradesh,Noida
+01-04-2021,South,Clothing,329,356307,5,80776.91,Customer 54,CUST-1053,,631170,PROD-2053,ORD-3053,54,First Class,29-01-2024,Consumer,Technology,Phones,India,Madhya Pradesh,Gwalior
+01-04-2021,South,Furniture,444,769896,0,100196.97,Customer 55,CUST-1054,,831363,PROD-2054,ORD-3054,55,Second Class,15-01-2024,Consumer,Furniture,Tables,India,Bihar,Bhagalpur
+01-04-2021,South,Groceries,236,365564,20,99313.42,Customer 56,CUST-1055,,700574,PROD-2055,ORD-3055,56,First Class,13-01-2024,Consumer,Technology,Accessories,India,West Bengal,Durgapur
+01-04-2021,East,Electronics,301,347354,15,35887.77,Customer 57,CUST-1056,,859328,PROD-2056,ORD-3056,57,First Class,22-01-2024,Consumer,Furniture,Accessories,India,Odisha,Rourkela
+01-04-2021,East,Clothing,196,268716,15,77418.33,Customer 58,CUST-1057,,384819,PROD-2057,ORD-3057,58,Same Day,04-01-2024,Home Office,Office Supplies,Binders,India,Telangana,Nizamabad
+01-04-2021,East,Furniture,473,881199,5,235757.76,Customer 59,CUST-1058,,705425,PROD-2058,ORD-3058,59,First Class,17-01-2024,Home Office,Furniture,Binders,India,Andhra Pradesh,Guntur
+01-04-2021,East,Groceries,316,212352,5,60507.31,Customer 60,CUST-1059,,422449,PROD-2059,ORD-3059,60,First Class,04-01-2024,Consumer,Technology,Storage,India,Chhattisgarh,Durg
+01-04-2021,West,Electronics,347,636398,15,85907.99,Customer 61,CUST-1060,,251051,PROD-2060,ORD-3060,61,Same Day,22-01-2024,Consumer,Office Supplies,Binders,India,Jharkhand,Dhanbad
+01-04-2021,West,Clothing,161,195776,15,40316.17,Customer 62,CUST-1061,,960898,PROD-2061,ORD-3061,62,Second Class,07-01-2024,Corporate,Office Supplies,Accessories,India,Assam,Dibrugarh
+01-04-2021,West,Furniture,51,55896,15,11830.87,Customer 63,CUST-1062,,433952,PROD-2062,ORD-3062,63,Second Class,26-01-2024,Consumer,Technology,Chairs,India,Himachal Pradesh,Dharamshala
+01-04-2021,West,Groceries,209,253726,0,39523.98,Customer 64,CUST-1063,,680240,PROD-2063,ORD-3063,64,First Class,02-01-2024,Home Office,Office Supplies,Binders,India,Uttarakhand,Haldwani
+01-05-2021,North,Electronics,196,198940,10,53965.43,Customer 65,CUST-1064,,202832,PROD-2064,ORD-3064,65,First Class,02-01-2024,Home Office,Technology,Tables,India,Goa,Vasco da Gama
+01-05-2021,North,Clothing,103,138329,0,31595.22,Customer 66,CUST-1065,,297801,PROD-2065,ORD-3065,66,Second Class,13-01-2024,Corporate,Furniture,Binders,India,Sikkim,Gyalshing
+01-05-2021,North,Furniture,124,229152,15,64096.3,Customer 67,CUST-1066,,364465,PROD-2066,ORD-3066,67,Standard Class,14-01-2024,Home Office,Furniture,Binders,India,Maharashtra,Mumbai
+01-05-2021,North,Groceries,389,176217,10,30742.21,Customer 68,CUST-1067,,107295,PROD-2067,ORD-3067,68,Standard Class,16-01-2024,Home Office,Furniture,Binders,India,Karnataka,Bengaluru
+01-05-2021,South,Electronics,148,52096,20,8167.83,Customer 69,CUST-1068,,387668,PROD-2068,ORD-3068,69,Same Day,03-01-2024,Corporate,Office Supplies,Storage,India,Tamil Nadu,Chennai
+01-05-2021,South,Clothing,415,222855,5,53123.96,Customer 70,CUST-1069,,913733,PROD-2069,ORD-3069,70,First Class,10-01-2024,Home Office,Technology,Accessories,India,Kerala,Kochi
+01-05-2021,South,Furniture,257,297092,0,40162.4,Customer 71,CUST-1070,,517516,PROD-2070,ORD-3070,71,First Class,03-01-2024,Consumer,Technology,Chairs,India,Gujarat,Ahmedabad
+01-05-2021,South,Groceries,117,117000,20,15884.45,Customer 72,CUST-1071,,725494,PROD-2071,ORD-3071,72,Second Class,13-01-2024,Corporate,Office Supplies,Accessories,India,Rajasthan,Jaipur
+01-05-2021,East,Electronics,433,699295,10,161902.58,Customer 73,CUST-1072,,523101,PROD-2072,ORD-3072,73,Standard Class,11-01-2024,Corporate,Office Supplies,Tables,India,Punjab,Ludhiana
+01-05-2021,East,Clothing,82,72734,15,14675.02,Customer 74,CUST-1073,,286829,PROD-2073,ORD-3073,74,Standard Class,23-01-2024,Corporate,Office Supplies,Storage,India,Haryana,Gurugram
+01-05-2021,East,Furniture,424,527880,20,104176.29,Customer 75,CUST-1074,,880792,PROD-2074,ORD-3074,75,Second Class,23-01-2024,Corporate,Furniture,Storage,India,Uttar Pradesh,Lucknow
+01-05-2021,East,Groceries,313,471378,10,122069.11,Customer 76,CUST-1075,,214198,PROD-2075,ORD-3075,76,Same Day,10-01-2024,Consumer,Technology,Storage,India,Madhya Pradesh,Bhopal
+01-05-2021,West,Electronics,335,613720,15,143478.41,Customer 77,CUST-1076,,874250,PROD-2076,ORD-3076,77,Standard Class,19-01-2024,Corporate,Technology,Storage,India,Bihar,Patna
+01-05-2021,West,Clothing,366,371490,10,79647.77,Customer 78,CUST-1077,,757774,PROD-2077,ORD-3077,78,Second Class,09-01-2024,Home Office,Furniture,Accessories,India,West Bengal,Kolkata
+01-05-2021,West,Furniture,241,306552,0,91631.49,Customer 79,CUST-1078,,221469,PROD-2078,ORD-3078,79,Standard Class,28-01-2024,Corporate,Technology,Binders,India,Odisha,Bhubaneswar
+01-05-2021,West,Groceries,207,139932,20,38719.02,Customer 80,CUST-1079,,741555,PROD-2079,ORD-3079,80,Same Day,06-01-2024,Home Office,Furniture,Accessories,India,Telangana,Hyderabad
+01-06-2021,North,Electronics,429,844272,20,241177.87,Customer 81,CUST-1080,,873989,PROD-2080,ORD-3080,81,First Class,17-01-2024,Corporate,Office Supplies,Accessories,India,Andhra Pradesh,Visakhapatnam
+01-06-2021,North,Clothing,351,133380,10,39489.33,Customer 82,CUST-1081,,309306,PROD-2081,ORD-3081,82,Second Class,15-01-2024,Corporate,Furniture,Phones,India,Chhattisgarh,Raipur
+01-06-2021,North,Furniture,165,64350,20,11391.21,Customer 83,CUST-1082,,746542,PROD-2082,ORD-3082,83,First Class,15-01-2024,Home Office,Office Supplies,Storage,India,Jharkhand,Ranchi
+01-06-2021,North,Groceries,210,310590,10,41587.55,Customer 84,CUST-1083,,459008,PROD-2083,ORD-3083,84,Second Class,15-01-2024,Consumer,Office Supplies,Tables,India,Assam,Guwahati
+01-06-2021,South,Electronics,330,646140,5,184798.22,Customer 85,CUST-1084,,445397,PROD-2084,ORD-3084,85,First Class,10-01-2024,Home Office,Office Supplies,Storage,India,Himachal Pradesh,Shimla
+01-06-2021,South,Clothing,223,183975,5,27749.45,Customer 86,CUST-1085,,691113,PROD-2085,ORD-3085,86,Standard Class,09-01-2024,Corporate,Office Supplies,Binders,India,Uttarakhand,Dehradun
+01-06-2021,South,Furniture,435,428040,0,54499.88,Customer 87,CUST-1086,,609983,PROD-2086,ORD-3086,87,Standard Class,09-01-2024,Corporate,Technology,Accessories,India,Goa,Panaji
+01-06-2021,South,Groceries,295,412705,20,65744.74,Customer 88,CUST-1087,,327850,PROD-2087,ORD-3087,88,Second Class,03-01-2024,Consumer,Furniture,Accessories,India,Sikkim,Gangtok
+01-06-2021,East,Electronics,75,84000,20,9770.78,Customer 89,CUST-1088,,366510,PROD-2088,ORD-3088,89,Second Class,13-01-2024,Consumer,Furniture,Binders,India,Maharashtra,Pune
+01-06-2021,East,Clothing,440,103400,20,14357.59,Customer 90,CUST-1089,,540512,PROD-2089,ORD-3089,90,Same Day,22-01-2024,Corporate,Technology,Phones,India,Karnataka,Mysuru
+01-06-2021,East,Furniture,313,222543,15,61716.39,Customer 91,CUST-1090,,770867,PROD-2090,ORD-3090,91,First Class,20-01-2024,Home Office,Furniture,Chairs,India,Tamil Nadu,Coimbatore
+01-06-2021,East,Groceries,192,252480,5,29993.71,Customer 92,CUST-1091,,985647,PROD-2091,ORD-3091,92,Same Day,13-01-2024,Corporate,Furniture,Accessories,India,Kerala,Thiruvananthapuram
+01-06-2021,West,Electronics,264,277992,10,53685.7,Customer 93,CUST-1092,,993519,PROD-2092,ORD-3092,93,Second Class,22-01-2024,Consumer,Office Supplies,Chairs,India,Gujarat,Surat
+01-06-2021,West,Clothing,112,158256,20,42378.85,Customer 94,CUST-1093,,523503,PROD-2093,ORD-3093,94,Same Day,10-01-2024,Consumer,Technology,Binders,India,Rajasthan,Udaipur
+01-06-2021,West,Furniture,107,167455,0,17996.33,Customer 95,CUST-1094,,503124,PROD-2094,ORD-3094,95,First Class,06-01-2024,Consumer,Furniture,Chairs,India,Punjab,Amritsar
+01-06-2021,West,Groceries,375,478875,10,60056.72,Customer 96,CUST-1095,,598229,PROD-2095,ORD-3095,96,Second Class,03-01-2024,Consumer,Technology,Accessories,India,Haryana,Faridabad
+01-07-2021,North,Electronics,313,399388,15,57178.07,Customer 97,CUST-1096,,979739,PROD-2096,ORD-3096,97,Same Day,08-01-2024,Consumer,Technology,Tables,India,Uttar Pradesh,Kanpur
+01-07-2021,North,Clothing,54,71604,15,19218.84,Customer 98,CUST-1097,,821826,PROD-2097,ORD-3097,98,Second Class,14-01-2024,Corporate,Furniture,Binders,India,Madhya Pradesh,Indore
+01-07-2021,North,Furniture,421,662233,10,150648.72,Customer 99,CUST-1098,,783435,PROD-2098,ORD-3098,99,Same Day,06-01-2024,Home Office,Technology,Storage,India,Bihar,Gaya
+01-07-2021,North,Groceries,357,305235,20,89710.82,Customer 100,CUST-1099,,721537,PROD-2099,ORD-3099,100,Second Class,19-01-2024,Home Office,Office Supplies,Tables,India,West Bengal,Howrah
+01-07-2021,South,Electronics,155,293415,10,76005.41,Customer 101,CUST-1100,,445944,PROD-2100,ORD-3100,101,First Class,14-01-2024,Corporate,Technology,Accessories,India,Odisha,Cuttack
+01-07-2021,South,Clothing,368,672336,5,77783.41,Customer 102,CUST-1101,,959386,PROD-2101,ORD-3101,102,Second Class,30-01-2024,Home Office,Office Supplies,Binders,India,Telangana,Warangal
+01-07-2021,South,Furniture,278,471766,20,54807.22,Customer 103,CUST-1102,,226880,PROD-2102,ORD-3102,103,Second Class,24-01-2024,Consumer,Office Supplies,Phones,India,Andhra Pradesh,Vijayawada
+01-07-2021,South,Groceries,176,284416,15,51704.15,Customer 104,CUST-1103,,473302,PROD-2103,ORD-3103,104,Standard Class,08-01-2024,Consumer,Technology,Binders,India,Chhattisgarh,Bilaspur
+01-07-2021,East,Electronics,107,89131,0,16798.56,Customer 105,CUST-1104,,574529,PROD-2104,ORD-3104,105,Same Day,22-01-2024,Consumer,Office Supplies,Binders,India,Jharkhand,Jamshedpur
+01-07-2021,East,Clothing,145,269845,0,62614.69,Customer 106,CUST-1105,,590353,PROD-2105,ORD-3105,106,Second Class,27-01-2024,Corporate,Office Supplies,Storage,India,Assam,Silchar
+01-07-2021,East,Furniture,422,462512,20,114508.44,Customer 107,CUST-1106,,724487,PROD-2106,ORD-3106,107,Second Class,04-01-2024,Consumer,Office Supplies,Phones,India,Himachal Pradesh,Solan
+01-07-2021,East,Groceries,496,386880,20,71154.97,Customer 108,CUST-1107,,994935,PROD-2107,ORD-3107,108,Second Class,11-01-2024,Consumer,Office Supplies,Chairs,India,Uttarakhand,Haridwar
+01-07-2021,West,Electronics,125,44125,10,11100.49,Customer 109,CUST-1108,,952062,PROD-2108,ORD-3108,109,Standard Class,29-01-2024,Consumer,Furniture,Binders,India,Goa,Margao
+01-07-2021,West,Clothing,234,352872,15,38533.81,Customer 110,CUST-1109,,440168,PROD-2109,ORD-3109,110,First Class,13-01-2024,Home Office,Technology,Binders,India,Sikkim,Namchi
+01-07-2021,West,Furniture,143,282139,15,38107.4,Customer 111,CUST-1110,,739534,PROD-2110,ORD-3110,111,Second Class,28-01-2024,Corporate,Furniture,Accessories,India,Maharashtra,Nagpur
+01-07-2021,West,Groceries,449,187233,5,37132.64,Customer 112,CUST-1111,,999104,PROD-2111,ORD-3111,112,Second Class,07-01-2024,Consumer,Technology,Tables,India,Karnataka,Mangaluru
+01-08-2021,North,Electronics,88,161480,0,31155.11,Customer 113,CUST-1112,,717994,PROD-2112,ORD-3112,113,Same Day,21-01-2024,Consumer,Office Supplies,Tables,India,Tamil Nadu,Madurai
+01-08-2021,North,Clothing,406,90132,5,20114.76,Customer 114,CUST-1113,,790909,PROD-2113,ORD-3113,114,First Class,12-01-2024,Corporate,Technology,Phones,India,Kerala,Kozhikode
+01-08-2021,North,Furniture,374,494802,5,75298.34,Customer 115,CUST-1114,,537821,PROD-2114,ORD-3114,115,Standard Class,13-01-2024,Home Office,Technology,Binders,India,Gujarat,Vadodara
+01-08-2021,North,Groceries,443,425723,10,85411.64,Customer 116,CUST-1115,,993589,PROD-2115,ORD-3115,116,Second Class,27-01-2024,Home Office,Furniture,Accessories,India,Rajasthan,Jodhpur
+01-08-2021,South,Electronics,306,371790,20,88037.18,Customer 117,CUST-1116,,649523,PROD-2116,ORD-3116,117,Standard Class,09-01-2024,Corporate,Office Supplies,Tables,India,Punjab,Jalandhar
+01-08-2021,South,Clothing,65,64415,5,6783.05,Customer 118,CUST-1117,,744803,PROD-2117,ORD-3117,118,First Class,26-01-2024,Consumer,Technology,Chairs,India,Haryana,Panipat
+01-08-2021,South,Furniture,433,155447,10,40445.73,Customer 119,CUST-1118,,375779,PROD-2118,ORD-3118,119,Standard Class,16-01-2024,Home Office,Furniture,Accessories,India,Uttar Pradesh,Noida
+01-08-2021,South,Groceries,445,395605,10,90458.11,Customer 120,CUST-1119,,711498,PROD-2119,ORD-3119,120,Standard Class,04-01-2024,Corporate,Technology,Storage,India,Madhya Pradesh,Gwalior
+01-08-2021,East,Electronics,466,538696,10,142284.64,Customer 121,CUST-1120,,786100,PROD-2120,ORD-3120,121,Standard Class,10-01-2024,Consumer,Office Supplies,Storage,India,Bihar,Bhagalpur
+01-08-2021,East,Clothing,317,570600,0,131407.44,Customer 122,CUST-1121,,785037,PROD-2121,ORD-3121,122,Second Class,24-01-2024,Consumer,Furniture,Chairs,India,West Bengal,Durgapur
+01-08-2021,East,Furniture,92,163668,20,18637.25,Customer 123,CUST-1122,,129185,PROD-2122,ORD-3122,123,Second Class,09-01-2024,Corporate,Furniture,Storage,India,Odisha,Rourkela
+01-08-2021,East,Groceries,144,219600,5,23671.26,Customer 124,CUST-1123,,587141,PROD-2123,ORD-3123,124,Same Day,29-01-2024,Corporate,Office Supplies,Tables,India,Telangana,Nizamabad
+01-08-2021,West,Electronics,291,68094,0,15739.56,Customer 125,CUST-1124,,492317,PROD-2124,ORD-3124,125,Second Class,04-01-2024,Home Office,Furniture,Binders,India,Andhra Pradesh,Guntur
+01-08-2021,West,Clothing,142,165998,5,27908.4,Customer 126,CUST-1125,,784221,PROD-2125,ORD-3125,126,Second Class,13-01-2024,Corporate,Furniture,Phones,India,Chhattisgarh,Durg
+01-08-2021,West,Furniture,164,133824,15,31927.47,Customer 127,CUST-1126,,652788,PROD-2126,ORD-3126,127,Standard Class,22-01-2024,Corporate,Technology,Phones,India,Jharkhand,Dhanbad
+01-08-2021,West,Groceries,163,279708,10,77057.99,Customer 128,CUST-1127,,581675,PROD-2127,ORD-3127,128,Standard Class,23-01-2024,Corporate,Technology,Chairs,India,Assam,Dibrugarh
+01-09-2021,North,Electronics,469,435232,20,127747.6,Customer 129,CUST-1128,,588416,PROD-2128,ORD-3128,129,First Class,22-01-2024,Consumer,Office Supplies,Binders,India,Himachal Pradesh,Dharamshala
+01-09-2021,North,Clothing,213,344421,20,86147.6,Customer 130,CUST-1129,,372985,PROD-2129,ORD-3129,130,Standard Class,05-01-2024,Corporate,Furniture,Chairs,India,Uttarakhand,Haldwani
+01-09-2021,North,Furniture,241,226058,0,55684.77,Customer 131,CUST-1130,,642101,PROD-2130,ORD-3130,131,Standard Class,05-01-2024,Home Office,Office Supplies,Accessories,India,Goa,Vasco da Gama
+01-09-2021,North,Groceries,85,100045,0,25539.75,Customer 132,CUST-1131,,359150,PROD-2131,ORD-3131,132,Same Day,17-01-2024,Home Office,Furniture,Phones,India,Sikkim,Gyalshing
+01-09-2021,South,Electronics,201,173262,20,25594.15,Customer 133,CUST-1132,,220127,PROD-2132,ORD-3132,133,Same Day,03-01-2024,Consumer,Furniture,Tables,India,Maharashtra,Mumbai
+01-09-2021,South,Clothing,232,405536,0,59876.27,Customer 134,CUST-1133,,255446,PROD-2133,ORD-3133,134,Same Day,22-01-2024,Home Office,Furniture,Accessories,India,Karnataka,Bengaluru
+01-09-2021,South,Furniture,335,501160,0,100758.46,Customer 135,CUST-1134,,822710,PROD-2134,ORD-3134,135,Second Class,06-01-2024,Consumer,Office Supplies,Phones,India,Tamil Nadu,Chennai
+01-09-2021,South,Groceries,417,386976,20,108006.8,Customer 136,CUST-1135,,437174,PROD-2135,ORD-3135,136,First Class,20-01-2024,Home Office,Office Supplies,Accessories,India,Kerala,Kochi
+01-09-2021,East,Electronics,226,414710,15,120974.35,Customer 137,CUST-1136,,860313,PROD-2136,ORD-3136,137,Second Class,26-01-2024,Corporate,Technology,Chairs,India,Gujarat,Ahmedabad
+01-09-2021,East,Clothing,452,124300,0,20368.14,Customer 138,CUST-1137,,339792,PROD-2137,ORD-3137,138,Second Class,16-01-2024,Corporate,Technology,Chairs,India,Rajasthan,Jaipur
+01-09-2021,East,Furniture,255,238170,15,51132.14,Customer 139,CUST-1138,,916174,PROD-2138,ORD-3138,139,First Class,27-01-2024,Home Office,Technology,Chairs,India,Punjab,Ludhiana
+01-09-2021,East,Groceries,416,142688,20,16885.82,Customer 140,CUST-1139,,321991,PROD-2139,ORD-3139,140,First Class,28-01-2024,Corporate,Technology,Binders,India,Haryana,Gurugram
+01-09-2021,West,Electronics,445,555360,15,130233.97,Customer 141,CUST-1140,,153133,PROD-2140,ORD-3140,141,Second Class,16-01-2024,Corporate,Technology,Chairs,India,Uttar Pradesh,Lucknow
+01-09-2021,West,Clothing,102,140148,0,17195.17,Customer 142,CUST-1141,,848953,PROD-2141,ORD-3141,142,Second Class,24-01-2024,Home Office,Office Supplies,Storage,India,Madhya Pradesh,Bhopal
+01-09-2021,West,Furniture,230,290950,5,32444.34,Customer 143,CUST-1142,,231350,PROD-2142,ORD-3142,143,Second Class,04-01-2024,Home Office,Technology,Storage,India,Bihar,Patna
+01-09-2021,West,Groceries,272,226576,20,56056.51,Customer 144,CUST-1143,,425711,PROD-2143,ORD-3143,144,Second Class,28-01-2024,Consumer,Technology,Phones,India,West Bengal,Kolkata
+01-10-2021,North,Electronics,270,117180,10,14461.58,Customer 145,CUST-1144,,930303,PROD-2144,ORD-3144,145,First Class,06-01-2024,Home Office,Technology,Tables,India,Odisha,Bhubaneswar
+01-10-2021,North,Clothing,125,154000,5,41178.49,Customer 146,CUST-1145,,667070,PROD-2145,ORD-3145,146,Same Day,28-01-2024,Consumer,Technology,Accessories,India,Telangana,Hyderabad
+01-10-2021,North,Furniture,450,664200,20,95987.05,Customer 147,CUST-1146,,536821,PROD-2146,ORD-3146,147,Second Class,04-01-2024,Consumer,Office Supplies,Chairs,India,Andhra Pradesh,Visakhapatnam
+01-10-2021,North,Groceries,442,506090,10,122093.43,Customer 148,CUST-1147,,101124,PROD-2147,ORD-3147,148,First Class,24-01-2024,Corporate,Furniture,Binders,India,Chhattisgarh,Raipur
+01-10-2021,South,Electronics,54,12312,20,1805.5,Customer 149,CUST-1148,,515249,PROD-2148,ORD-3148,149,First Class,02-01-2024,Home Office,Technology,Phones,India,Jharkhand,Ranchi
+01-10-2021,South,Clothing,185,318015,20,55375.45,Customer 150,CUST-1149,,981022,PROD-2149,ORD-3149,150,Same Day,15-01-2024,Home Office,Office Supplies,Accessories,India,Assam,Guwahati
+01-10-2021,South,Furniture,194,137740,0,30079.35,Customer 151,CUST-1150,,923019,PROD-2150,ORD-3150,151,First Class,10-01-2024,Corporate,Furniture,Accessories,India,Himachal Pradesh,Shimla
+01-10-2021,South,Groceries,341,440913,15,51454.61,Customer 152,CUST-1151,,924394,PROD-2151,ORD-3151,152,Second Class,09-01-2024,Consumer,Furniture,Storage,India,Uttarakhand,Dehradun
+01-10-2021,East,Electronics,494,531050,10,79521.99,Customer 153,CUST-1152,,554227,PROD-2152,ORD-3152,153,Standard Class,24-01-2024,Corporate,Office Supplies,Chairs,India,Goa,Panaji
+01-10-2021,East,Clothing,68,16184,10,2439.52,Customer 154,CUST-1153,,786882,PROD-2153,ORD-3153,154,Same Day,13-01-2024,Home Office,Technology,Accessories,India,Sikkim,Gangtok
+01-10-2021,East,Furniture,291,419913,5,104220.21,Customer 155,CUST-1154,,222391,PROD-2154,ORD-3154,155,Second Class,24-01-2024,Consumer,Technology,Phones,India,Maharashtra,Pune
+01-10-2021,East,Groceries,366,400404,0,99637.46,Customer 156,CUST-1155,,540762,PROD-2155,ORD-3155,156,Same Day,05-01-2024,Consumer,Furniture,Accessories,India,Karnataka,Mysuru
+01-10-2021,West,Electronics,436,238492,0,41729.93,Customer 157,CUST-1156,,103734,PROD-2156,ORD-3156,157,Same Day,23-01-2024,Corporate,Office Supplies,Tables,India,Tamil Nadu,Coimbatore
+01-10-2021,West,Clothing,418,682176,0,98723.94,Customer 158,CUST-1157,,762435,PROD-2157,ORD-3157,158,Same Day,19-01-2024,Consumer,Office Supplies,Phones,India,Kerala,Thiruvananthapuram
+01-10-2021,West,Furniture,183,47031,15,13901.43,Customer 159,CUST-1158,,921062,PROD-2158,ORD-3158,159,Same Day,19-01-2024,Consumer,Furniture,Chairs,India,Gujarat,Surat
+01-10-2021,West,Groceries,222,225108,20,24464.77,Customer 160,CUST-1159,,292836,PROD-2159,ORD-3159,160,Standard Class,05-01-2024,Corporate,Technology,Chairs,India,Rajasthan,Udaipur
+01-11-2021,North,Electronics,262,105324,15,12086.91,Customer 161,CUST-1160,,408906,PROD-2160,ORD-3160,161,Second Class,09-01-2024,Corporate,Technology,Chairs,India,Punjab,Amritsar
+01-11-2021,North,Clothing,276,519432,15,59779.82,Customer 162,CUST-1161,,335498,PROD-2161,ORD-3161,162,Same Day,06-01-2024,Corporate,Office Supplies,Tables,India,Haryana,Faridabad
+01-11-2021,North,Furniture,96,139776,0,33427.39,Customer 163,CUST-1162,,905275,PROD-2162,ORD-3162,163,Standard Class,05-01-2024,Home Office,Technology,Phones,India,Uttar Pradesh,Kanpur
+01-11-2021,North,Groceries,464,805504,20,192825.58,Customer 164,CUST-1163,,598852,PROD-2163,ORD-3163,164,Second Class,03-01-2024,Home Office,Furniture,Chairs,India,Madhya Pradesh,Indore
+01-11-2021,South,Electronics,308,263340,0,74538.62,Customer 165,CUST-1164,,512177,PROD-2164,ORD-3164,165,First Class,28-01-2024,Corporate,Furniture,Binders,India,Bihar,Gaya
+01-11-2021,South,Clothing,379,354365,15,43002.62,Customer 166,CUST-1165,,546119,PROD-2165,ORD-3165,166,First Class,30-01-2024,Consumer,Furniture,Accessories,India,West Bengal,Howrah
+01-11-2021,South,Furniture,422,519482,5,71493.31,Customer 167,CUST-1166,,706586,PROD-2166,ORD-3166,167,First Class,24-01-2024,Consumer,Office Supplies,Accessories,India,Odisha,Cuttack
+01-11-2021,South,Groceries,139,260069,5,37938.59,Customer 168,CUST-1167,,856622,PROD-2167,ORD-3167,168,Same Day,15-01-2024,Consumer,Office Supplies,Chairs,India,Telangana,Warangal
+01-11-2021,East,Electronics,77,71687,20,21138.99,Customer 169,CUST-1168,,850981,PROD-2168,ORD-3168,169,Second Class,26-01-2024,Corporate,Technology,Accessories,India,Andhra Pradesh,Vijayawada
+01-11-2021,East,Clothing,241,168941,0,26346.81,Customer 170,CUST-1169,,327539,PROD-2169,ORD-3169,170,First Class,25-01-2024,Consumer,Furniture,Binders,India,Chhattisgarh,Bilaspur
+01-11-2021,East,Furniture,261,172260,15,26561.03,Customer 171,CUST-1170,,331156,PROD-2170,ORD-3170,171,Second Class,04-01-2024,Corporate,Technology,Phones,India,Jharkhand,Jamshedpur
+01-11-2021,East,Groceries,446,794326,10,210105.14,Customer 172,CUST-1171,,820453,PROD-2171,ORD-3171,172,Second Class,05-01-2024,Home Office,Furniture,Storage,India,Assam,Silchar
+01-11-2021,West,Electronics,131,141742,20,31563.54,Customer 173,CUST-1172,,855833,PROD-2172,ORD-3172,173,First Class,28-01-2024,Corporate,Technology,Accessories,India,Himachal Pradesh,Solan
+01-11-2021,West,Clothing,499,104291,5,21934.23,Customer 174,CUST-1173,,493884,PROD-2173,ORD-3173,174,Same Day,20-01-2024,Home Office,Office Supplies,Accessories,India,Uttarakhand,Haridwar
+01-11-2021,West,Furniture,54,72468,0,18517.06,Customer 175,CUST-1174,,391372,PROD-2174,ORD-3174,175,Second Class,10-01-2024,Home Office,Technology,Binders,India,Goa,Margao
+01-11-2021,West,Groceries,195,82485,0,14463.56,Customer 176,CUST-1175,,876300,PROD-2175,ORD-3175,176,First Class,25-01-2024,Home Office,Technology,Accessories,India,Sikkim,Namchi
+01-12-2021,North,Electronics,331,86722,0,25494.78,Customer 177,CUST-1176,,630013,PROD-2176,ORD-3176,177,Second Class,04-01-2024,Corporate,Furniture,Binders,India,Maharashtra,Nagpur
+01-12-2021,North,Clothing,332,294816,20,33226.46,Customer 178,CUST-1177,,951689,PROD-2177,ORD-3177,178,Same Day,30-01-2024,Corporate,Furniture,Tables,India,Karnataka,Mangaluru
+01-12-2021,North,Furniture,154,203588,0,20915.49,Customer 179,CUST-1178,,859249,PROD-2178,ORD-3178,179,Second Class,30-01-2024,Home Office,Furniture,Tables,India,Tamil Nadu,Madurai
+01-12-2021,North,Groceries,360,258120,15,67777.2,Customer 180,CUST-1179,,943595,PROD-2179,ORD-3179,180,Standard Class,04-01-2024,Consumer,Office Supplies,Chairs,India,Kerala,Kozhikode
+01-12-2021,South,Electronics,400,747200,10,157723.71,Customer 181,CUST-1180,,684032,PROD-2180,ORD-3180,181,Second Class,28-01-2024,Consumer,Office Supplies,Binders,India,Gujarat,Vadodara
+01-12-2021,South,Clothing,102,89352,5,24118.74,Customer 182,CUST-1181,,700835,PROD-2181,ORD-3181,182,Second Class,12-01-2024,Corporate,Office Supplies,Tables,India,Rajasthan,Jodhpur
+01-12-2021,South,Furniture,194,253752,0,31930.09,Customer 183,CUST-1182,,898038,PROD-2182,ORD-3182,183,Same Day,27-01-2024,Home Office,Technology,Storage,India,Punjab,Jalandhar
+01-12-2021,South,Groceries,100,88400,20,12503.78,Customer 184,CUST-1183,,280527,PROD-2183,ORD-3183,184,First Class,25-01-2024,Consumer,Technology,Storage,India,Haryana,Panipat
+01-12-2021,East,Electronics,498,537840,5,92310.85,Customer 185,CUST-1184,,532565,PROD-2184,ORD-3184,185,Same Day,12-01-2024,Home Office,Office Supplies,Accessories,India,Uttar Pradesh,Noida
+01-12-2021,East,Clothing,121,214654,5,42852.03,Customer 186,CUST-1185,,668445,PROD-2185,ORD-3185,186,Same Day,13-01-2024,Home Office,Technology,Binders,India,Madhya Pradesh,Gwalior
+01-12-2021,East,Furniture,487,154379,10,31498.36,Customer 187,CUST-1186,,998255,PROD-2186,ORD-3186,187,Second Class,14-01-2024,Home Office,Furniture,Chairs,India,Bihar,Bhagalpur
+01-12-2021,East,Groceries,317,404809,15,85895.45,Customer 188,CUST-1187,,545950,PROD-2187,ORD-3187,188,Same Day,23-01-2024,Home Office,Furniture,Tables,India,West Bengal,Durgapur
+01-12-2021,West,Electronics,271,260702,0,56830.74,Customer 189,CUST-1188,,599840,PROD-2188,ORD-3188,189,Second Class,23-01-2024,Corporate,Technology,Phones,India,Odisha,Rourkela
+01-12-2021,West,Clothing,304,463904,20,103943.22,Customer 190,CUST-1189,,691918,PROD-2189,ORD-3189,190,Second Class,25-01-2024,Home Office,Technology,Chairs,India,Telangana,Nizamabad
+01-12-2021,West,Furniture,115,31510,10,8842.66,Customer 191,CUST-1190,,963422,PROD-2190,ORD-3190,191,Same Day,10-01-2024,Home Office,Technology,Binders,India,Andhra Pradesh,Guntur
+01-12-2021,West,Groceries,241,232083,5,39481.38,Customer 192,CUST-1191,,958686,PROD-2191,ORD-3191,192,Same Day,07-01-2024,Corporate,Furniture,Phones,India,Chhattisgarh,Durg
+01-01-2022,North,Electronics,147,146559,10,17323.34,Customer 193,CUST-1192,,529119,PROD-2192,ORD-3192,193,Same Day,29-01-2024,Corporate,Office Supplies,Tables,India,Jharkhand,Dhanbad
+01-01-2022,North,Clothing,357,159936,0,41060.47,Customer 194,CUST-1193,,828369,PROD-2193,ORD-3193,194,First Class,26-01-2024,Home Office,Technology,Accessories,India,Assam,Dibrugarh
+01-01-2022,North,Furniture,79,75682,5,20621.28,Customer 195,CUST-1194,,403687,PROD-2194,ORD-3194,195,Same Day,12-01-2024,Corporate,Office Supplies,Tables,India,Himachal Pradesh,Dharamshala
+01-01-2022,North,Groceries,182,181272,15,34780.54,Customer 196,CUST-1195,,625971,PROD-2195,ORD-3195,196,Standard Class,12-01-2024,Corporate,Furniture,Tables,India,Uttarakhand,Haldwani
+01-01-2022,South,Electronics,450,698850,0,105979.82,Customer 197,CUST-1196,,979931,PROD-2196,ORD-3196,197,Standard Class,23-01-2024,Home Office,Office Supplies,Phones,India,Goa,Vasco da Gama
+01-01-2022,South,Clothing,118,87910,20,14899.22,Customer 198,CUST-1197,,713136,PROD-2197,ORD-3197,198,Same Day,14-01-2024,Consumer,Office Supplies,Chairs,India,Sikkim,Gyalshing
+01-01-2022,South,Furniture,175,344750,10,51033.04,Customer 199,CUST-1198,,626817,PROD-2198,ORD-3198,199,Standard Class,06-01-2024,Corporate,Office Supplies,Binders,India,Maharashtra,Mumbai
+01-01-2022,South,Groceries,420,130200,0,25001.5,Customer 200,CUST-1199,,283304,PROD-2199,ORD-3199,200,Second Class,12-01-2024,Home Office,Technology,Chairs,India,Karnataka,Bengaluru
+01-01-2022,East,Electronics,385,113190,10,14461.77,Customer 201,CUST-1200,,415850,PROD-2200,ORD-3200,201,Second Class,22-01-2024,Home Office,Technology,Accessories,India,Tamil Nadu,Chennai
+01-01-2022,East,Clothing,57,62643,15,10595.03,Customer 202,CUST-1201,,986507,PROD-2201,ORD-3201,202,Second Class,16-01-2024,Home Office,Furniture,Storage,India,Kerala,Kochi
+01-01-2022,East,Furniture,244,345992,10,80793.13,Customer 203,CUST-1202,,484010,PROD-2202,ORD-3202,203,Standard Class,26-01-2024,Corporate,Technology,Tables,India,Gujarat,Ahmedabad
+01-01-2022,East,Groceries,483,125580,5,18180.19,Customer 204,CUST-1203,,960324,PROD-2203,ORD-3203,204,First Class,15-01-2024,Corporate,Office Supplies,Chairs,India,Rajasthan,Jaipur
+01-01-2022,West,Electronics,326,400328,5,62338.3,Customer 205,CUST-1204,,124209,PROD-2204,ORD-3204,205,Standard Class,14-01-2024,Home Office,Furniture,Phones,India,Punjab,Ludhiana
+01-01-2022,West,Clothing,366,268278,20,56269.45,Customer 206,CUST-1205,,114333,PROD-2205,ORD-3205,206,First Class,24-01-2024,Home Office,Furniture,Binders,India,Haryana,Gurugram
+01-01-2022,West,Furniture,182,78624,15,11106.96,Customer 207,CUST-1206,,175645,PROD-2206,ORD-3206,207,Same Day,18-01-2024,Home Office,Furniture,Binders,India,Uttar Pradesh,Lucknow
+01-01-2022,West,Groceries,83,107983,5,25708.48,Customer 208,CUST-1207,,796831,PROD-2207,ORD-3207,208,Standard Class,20-01-2024,Consumer,Technology,Storage,India,Madhya Pradesh,Bhopal
+01-02-2022,North,Electronics,122,121146,0,23772.37,Customer 209,CUST-1208,,530790,PROD-2208,ORD-3208,209,First Class,17-01-2024,Consumer,Furniture,Binders,India,Bihar,Patna
+01-02-2022,North,Clothing,263,115194,10,32735.2,Customer 210,CUST-1209,,406936,PROD-2209,ORD-3209,210,Same Day,24-01-2024,Home Office,Office Supplies,Accessories,India,West Bengal,Kolkata
+01-02-2022,North,Furniture,110,58960,5,16135.01,Customer 211,CUST-1210,,114515,PROD-2210,ORD-3210,211,Second Class,27-01-2024,Home Office,Office Supplies,Phones,India,Odisha,Bhubaneswar
+01-02-2022,North,Groceries,57,46968,10,6430.12,Customer 212,CUST-1211,,200622,PROD-2211,ORD-3211,212,Same Day,24-01-2024,Home Office,Technology,Accessories,India,Telangana,Hyderabad
+01-02-2022,South,Electronics,256,128512,5,32383.88,Customer 213,CUST-1212,,868480,PROD-2212,ORD-3212,213,Standard Class,27-01-2024,Home Office,Furniture,Accessories,India,Andhra Pradesh,Visakhapatnam
+01-02-2022,South,Clothing,127,182753,5,45595.81,Customer 214,CUST-1213,,360219,PROD-2213,ORD-3213,214,First Class,28-01-2024,Home Office,Furniture,Storage,India,Chhattisgarh,Raipur
+01-02-2022,South,Furniture,63,56574,10,13728.81,Customer 215,CUST-1214,,708741,PROD-2214,ORD-3214,215,Standard Class,28-01-2024,Home Office,Technology,Storage,India,Jharkhand,Ranchi
+01-02-2022,South,Groceries,160,178880,10,36924.89,Customer 216,CUST-1215,,127071,PROD-2215,ORD-3215,216,Second Class,24-01-2024,Consumer,Office Supplies,Accessories,India,Assam,Guwahati
+01-02-2022,East,Electronics,323,558467,10,100207.28,Customer 217,CUST-1216,,931075,PROD-2216,ORD-3216,217,First Class,14-01-2024,Consumer,Office Supplies,Accessories,India,Himachal Pradesh,Shimla
+01-02-2022,East,Clothing,241,446814,20,60970.8,Customer 218,CUST-1217,,399719,PROD-2217,ORD-3217,218,First Class,30-01-2024,Consumer,Furniture,Accessories,India,Uttarakhand,Dehradun
+01-02-2022,East,Furniture,88,131648,5,27259.97,Customer 219,CUST-1218,,279495,PROD-2218,ORD-3218,219,Same Day,16-01-2024,Consumer,Technology,Phones,India,Goa,Panaji
+01-02-2022,East,Groceries,74,25456,20,5567.7,Customer 220,CUST-1219,,521628,PROD-2219,ORD-3219,220,First Class,08-01-2024,Consumer,Office Supplies,Binders,India,Sikkim,Gangtok
+01-02-2022,West,Electronics,117,189189,10,43468.93,Customer 221,CUST-1220,,853630,PROD-2220,ORD-3220,221,Same Day,02-01-2024,Corporate,Technology,Phones,India,Maharashtra,Pune
+01-02-2022,West,Clothing,195,60450,15,12538.62,Customer 222,CUST-1221,,339004,PROD-2221,ORD-3221,222,First Class,18-01-2024,Consumer,Technology,Storage,India,Karnataka,Mysuru
+01-02-2022,West,Furniture,83,68226,0,14524.75,Customer 223,CUST-1222,,807023,PROD-2222,ORD-3222,223,Same Day,04-01-2024,Home Office,Furniture,Phones,India,Tamil Nadu,Coimbatore
+01-02-2022,West,Groceries,91,56784,20,9801.85,Customer 224,CUST-1223,,391309,PROD-2223,ORD-3223,224,Standard Class,02-01-2024,Consumer,Technology,Phones,India,Kerala,Thiruvananthapuram
+01-03-2022,North,Electronics,331,510733,5,76033.14,Customer 225,CUST-1224,,849482,PROD-2224,ORD-3224,225,First Class,21-01-2024,Home Office,Furniture,Tables,India,Gujarat,Surat
+01-03-2022,North,Clothing,364,391664,20,112305.09,Customer 226,CUST-1225,,915802,PROD-2225,ORD-3225,226,Second Class,20-01-2024,Corporate,Technology,Binders,India,Rajasthan,Udaipur
+01-03-2022,North,Furniture,486,418446,20,54637.26,Customer 227,CUST-1226,,325778,PROD-2226,ORD-3226,227,Second Class,20-01-2024,Corporate,Furniture,Chairs,India,Punjab,Amritsar
+01-03-2022,North,Groceries,161,115115,10,13534.94,Customer 228,CUST-1227,,331618,PROD-2227,ORD-3227,228,Same Day,20-01-2024,Corporate,Furniture,Phones,India,Haryana,Faridabad
+01-03-2022,South,Electronics,399,730170,0,84733.85,Customer 229,CUST-1228,,616469,PROD-2228,ORD-3228,229,Second Class,26-01-2024,Home Office,Technology,Binders,India,Uttar Pradesh,Kanpur
+01-03-2022,South,Clothing,292,216664,20,64235.62,Customer 230,CUST-1229,,603162,PROD-2229,ORD-3229,230,Same Day,23-01-2024,Consumer,Furniture,Chairs,India,Madhya Pradesh,Indore
+01-03-2022,South,Furniture,272,55760,5,11999.53,Customer 231,CUST-1230,,891948,PROD-2230,ORD-3230,231,Standard Class,25-01-2024,Corporate,Furniture,Phones,India,Bihar,Gaya
+01-03-2022,South,Groceries,124,25172,0,4987.83,Customer 232,CUST-1231,,757190,PROD-2231,ORD-3231,232,Same Day,12-01-2024,Consumer,Furniture,Phones,India,West Bengal,Howrah
+01-03-2022,East,Electronics,484,374132,0,91172.77,Customer 233,CUST-1232,,932775,PROD-2232,ORD-3232,233,First Class,02-01-2024,Consumer,Furniture,Phones,India,Odisha,Cuttack
+01-03-2022,East,Clothing,252,406980,5,63487.18,Customer 234,CUST-1233,,743417,PROD-2233,ORD-3233,234,Second Class,17-01-2024,Corporate,Office Supplies,Tables,India,Telangana,Warangal
+01-03-2022,East,Furniture,349,651932,5,107396.57,Customer 235,CUST-1234,,870100,PROD-2234,ORD-3234,235,Second Class,14-01-2024,Home Office,Technology,Accessories,India,Andhra Pradesh,Vijayawada
+01-03-2022,East,Groceries,324,299052,0,73940.44,Customer 236,CUST-1235,,556578,PROD-2235,ORD-3235,236,Standard Class,14-01-2024,Home Office,Office Supplies,Phones,India,Chhattisgarh,Bilaspur
+01-03-2022,West,Electronics,189,143262,0,31821.93,Customer 237,CUST-1236,,824335,PROD-2236,ORD-3236,237,Second Class,12-01-2024,Corporate,Furniture,Chairs,India,Jharkhand,Jamshedpur
+01-03-2022,West,Clothing,369,654237,20,131646.09,Customer 238,CUST-1237,,210953,PROD-2237,ORD-3237,238,Standard Class,22-01-2024,Corporate,Office Supplies,Storage,India,Assam,Silchar
+01-03-2022,West,Furniture,405,422820,10,92503.13,Customer 239,CUST-1238,,690297,PROD-2238,ORD-3238,239,First Class,08-01-2024,Corporate,Office Supplies,Phones,India,Himachal Pradesh,Solan
+01-03-2022,West,Groceries,439,390271,5,81847.88,Customer 240,CUST-1239,,601946,PROD-2239,ORD-3239,240,First Class,28-01-2024,Corporate,Technology,Binders,India,Uttarakhand,Haridwar
+01-04-2022,North,Electronics,187,69377,5,11410.49,Customer 241,CUST-1240,,249327,PROD-2240,ORD-3240,241,First Class,02-01-2024,Corporate,Technology,Storage,India,Goa,Margao
+01-04-2022,North,Clothing,179,325601,0,41600.4,Customer 242,CUST-1241,,569873,PROD-2241,ORD-3241,242,Standard Class,05-01-2024,Corporate,Office Supplies,Phones,India,Sikkim,Namchi
+01-04-2022,North,Furniture,378,371952,0,81505.0,Customer 243,CUST-1242,,380109,PROD-2242,ORD-3242,243,Second Class,21-01-2024,Consumer,Furniture,Storage,India,Maharashtra,Nagpur
+01-04-2022,North,Groceries,457,810261,10,137560.97,Customer 244,CUST-1243,,518853,PROD-2243,ORD-3243,244,Second Class,27-01-2024,Home Office,Office Supplies,Tables,India,Karnataka,Mangaluru
+01-04-2022,South,Electronics,354,638616,15,187117.93,Customer 245,CUST-1244,,284993,PROD-2244,ORD-3244,245,Same Day,20-01-2024,Consumer,Technology,Binders,India,Tamil Nadu,Madurai
+01-04-2022,South,Clothing,383,220225,10,63351.71,Customer 246,CUST-1245,,555490,PROD-2245,ORD-3245,246,Second Class,11-01-2024,Corporate,Office Supplies,Tables,India,Kerala,Kozhikode
+01-04-2022,South,Furniture,125,221250,0,54919.59,Customer 247,CUST-1246,,655673,PROD-2246,ORD-3246,247,Same Day,27-01-2024,Corporate,Furniture,Binders,India,Gujarat,Vadodara
+01-04-2022,South,Groceries,455,816725,20,104503.62,Customer 248,CUST-1247,,748478,PROD-2247,ORD-3247,248,Standard Class,14-01-2024,Home Office,Office Supplies,Tables,India,Rajasthan,Jodhpur
+01-04-2022,East,Electronics,410,595320,15,79017.53,Customer 249,CUST-1248,,278729,PROD-2248,ORD-3248,249,Second Class,11-01-2024,Home Office,Office Supplies,Storage,India,Punjab,Jalandhar
+01-04-2022,East,Clothing,262,363656,20,53507.74,Customer 250,CUST-1249,,927081,PROD-2249,ORD-3249,250,Second Class,25-01-2024,Corporate,Office Supplies,Storage,India,Haryana,Panipat
+01-04-2022,East,Furniture,127,207391,15,33854.37,Customer 251,CUST-1250,,500330,PROD-2250,ORD-3250,251,Second Class,28-01-2024,Corporate,Office Supplies,Accessories,India,Uttar Pradesh,Noida
+01-04-2022,East,Groceries,91,26208,5,6901.09,Customer 252,CUST-1251,,139334,PROD-2251,ORD-3251,252,Second Class,09-01-2024,Home Office,Technology,Binders,India,Madhya Pradesh,Gwalior
+01-04-2022,West,Electronics,344,280360,10,63030.62,Customer 253,CUST-1252,,699286,PROD-2252,ORD-3252,253,Standard Class,07-01-2024,Consumer,Technology,Tables,India,Bihar,Bhagalpur
+01-04-2022,West,Clothing,402,500892,0,73351.9,Customer 254,CUST-1253,,140175,PROD-2253,ORD-3253,254,Same Day,07-01-2024,Consumer,Technology,Phones,India,West Bengal,Durgapur
+01-04-2022,West,Furniture,274,330444,5,68967.16,Customer 255,CUST-1254,,558028,PROD-2254,ORD-3254,255,Second Class,18-01-2024,Corporate,Office Supplies,Tables,India,Odisha,Rourkela
+01-04-2022,West,Groceries,153,46359,10,9669.09,Customer 256,CUST-1255,,208369,PROD-2255,ORD-3255,256,First Class,28-01-2024,Corporate,Technology,Storage,India,Telangana,Nizamabad
+01-05-2022,North,Electronics,247,461643,10,104119.71,Customer 257,CUST-1256,,510105,PROD-2256,ORD-3256,257,Second Class,07-01-2024,Consumer,Office Supplies,Chairs,India,Andhra Pradesh,Guntur
+01-05-2022,North,Clothing,91,152061,15,39354.15,Customer 258,CUST-1257,,969852,PROD-2257,ORD-3257,258,Standard Class,14-01-2024,Corporate,Furniture,Chairs,India,Chhattisgarh,Durg
+01-05-2022,North,Furniture,206,311472,15,77336.06,Customer 259,CUST-1258,,287604,PROD-2258,ORD-3258,259,Same Day,07-01-2024,Home Office,Furniture,Chairs,India,Jharkhand,Dhanbad
+01-05-2022,North,Groceries,460,284740,20,37111.58,Customer 260,CUST-1259,,305953,PROD-2259,ORD-3259,260,Same Day,05-01-2024,Consumer,Office Supplies,Storage,India,Assam,Dibrugarh
+01-05-2022,South,Electronics,146,178120,20,45547.85,Customer 261,CUST-1260,,634053,PROD-2260,ORD-3260,261,Same Day,10-01-2024,Home Office,Office Supplies,Tables,India,Himachal Pradesh,Dharamshala
+01-05-2022,South,Clothing,338,499226,15,106823.35,Customer 262,CUST-1261,,725729,PROD-2261,ORD-3261,262,First Class,24-01-2024,Corporate,Office Supplies,Chairs,India,Uttarakhand,Haldwani
+01-05-2022,South,Furniture,59,42244,10,10600.16,Customer 263,CUST-1262,,632711,PROD-2262,ORD-3262,263,Second Class,28-01-2024,Corporate,Technology,Phones,India,Goa,Vasco da Gama
+01-05-2022,South,Groceries,167,167835,20,20497.08,Customer 264,CUST-1263,,475014,PROD-2263,ORD-3263,264,Second Class,16-01-2024,Home Office,Technology,Accessories,India,Sikkim,Gyalshing
+01-05-2022,East,Electronics,277,114955,15,20629.53,Customer 265,CUST-1264,,950768,PROD-2264,ORD-3264,265,First Class,18-01-2024,Consumer,Furniture,Binders,India,Maharashtra,Mumbai
+01-05-2022,East,Clothing,206,385426,20,76033.56,Customer 266,CUST-1265,,379589,PROD-2265,ORD-3265,266,Second Class,18-01-2024,Consumer,Technology,Chairs,India,Karnataka,Bengaluru
+01-05-2022,East,Furniture,373,389039,20,94928.36,Customer 267,CUST-1266,,802376,PROD-2266,ORD-3266,267,First Class,18-01-2024,Corporate,Office Supplies,Storage,India,Tamil Nadu,Chennai
+01-05-2022,East,Groceries,144,118944,10,25347.16,Customer 268,CUST-1267,,540577,PROD-2267,ORD-3267,268,Second Class,16-01-2024,Corporate,Furniture,Phones,India,Kerala,Kochi
+01-05-2022,West,Electronics,331,498486,20,132278.13,Customer 269,CUST-1268,,332276,PROD-2268,ORD-3268,269,Second Class,25-01-2024,Consumer,Furniture,Accessories,India,Gujarat,Ahmedabad
+01-05-2022,West,Clothing,303,324513,5,93932.45,Customer 270,CUST-1269,,266584,PROD-2269,ORD-3269,270,Standard Class,22-01-2024,Home Office,Technology,Phones,India,Rajasthan,Jaipur
+01-05-2022,West,Furniture,445,185565,20,23719.52,Customer 271,CUST-1270,,402264,PROD-2270,ORD-3270,271,Standard Class,27-01-2024,Home Office,Furniture,Chairs,India,Punjab,Ludhiana
+01-05-2022,West,Groceries,259,306656,0,31776.32,Customer 272,CUST-1271,,919878,PROD-2271,ORD-3271,272,Second Class,06-01-2024,Home Office,Furniture,Binders,India,Haryana,Gurugram
+01-06-2022,North,Electronics,365,321930,15,38774.06,Customer 273,CUST-1272,,310549,PROD-2272,ORD-3272,273,First Class,10-01-2024,Corporate,Furniture,Phones,India,Uttar Pradesh,Lucknow
+01-06-2022,North,Clothing,373,505788,20,122121.36,Customer 274,CUST-1273,,134216,PROD-2273,ORD-3273,274,Same Day,18-01-2024,Corporate,Office Supplies,Phones,India,Madhya Pradesh,Bhopal
+01-06-2022,North,Furniture,155,187240,15,32745.86,Customer 275,CUST-1274,,394973,PROD-2274,ORD-3274,275,Same Day,15-01-2024,Home Office,Technology,Binders,India,Bihar,Patna
+01-06-2022,North,Groceries,442,536146,10,132582.93,Customer 276,CUST-1275,,545979,PROD-2275,ORD-3275,276,Second Class,13-01-2024,Home Office,Technology,Accessories,India,West Bengal,Kolkata
+01-06-2022,South,Electronics,345,524400,10,99724.03,Customer 277,CUST-1276,,995817,PROD-2276,ORD-3276,277,Same Day,17-01-2024,Corporate,Technology,Chairs,India,Odisha,Bhubaneswar
+01-06-2022,South,Clothing,351,644436,20,85777.08,Customer 278,CUST-1277,,127456,PROD-2277,ORD-3277,278,Same Day,22-01-2024,Corporate,Office Supplies,Phones,India,Telangana,Hyderabad
+01-06-2022,South,Furniture,469,658945,0,109667.74,Customer 279,CUST-1278,,800550,PROD-2278,ORD-3278,279,Second Class,17-01-2024,Corporate,Office Supplies,Accessories,India,Andhra Pradesh,Visakhapatnam
+01-06-2022,South,Groceries,487,373042,10,81418.31,Customer 280,CUST-1279,,583890,PROD-2279,ORD-3279,280,Second Class,08-01-2024,Corporate,Furniture,Binders,India,Chhattisgarh,Raipur
+01-06-2022,East,Electronics,198,327492,0,81496.36,Customer 281,CUST-1280,,214733,PROD-2280,ORD-3280,281,Standard Class,27-01-2024,Consumer,Technology,Binders,India,Jharkhand,Ranchi
+01-06-2022,East,Clothing,251,416409,0,42026.66,Customer 282,CUST-1281,,711665,PROD-2281,ORD-3281,282,Same Day,12-01-2024,Consumer,Technology,Binders,India,Assam,Guwahati
+01-06-2022,East,Furniture,474,366876,15,76119.11,Customer 283,CUST-1282,,536002,PROD-2282,ORD-3282,283,Second Class,21-01-2024,Home Office,Furniture,Chairs,India,Himachal Pradesh,Shimla
+01-06-2022,East,Groceries,124,72540,5,14229.98,Customer 284,CUST-1283,,753961,PROD-2283,ORD-3283,284,First Class,15-01-2024,Home Office,Furniture,Chairs,India,Uttarakhand,Dehradun
+01-06-2022,West,Electronics,396,693792,10,73936.95,Customer 285,CUST-1284,,557937,PROD-2284,ORD-3284,285,Standard Class,16-01-2024,Corporate,Technology,Storage,India,Goa,Panaji
+01-06-2022,West,Clothing,300,420600,0,83982.7,Customer 286,CUST-1285,,642502,PROD-2285,ORD-3285,286,Second Class,10-01-2024,Consumer,Furniture,Accessories,India,Sikkim,Gangtok
+01-06-2022,West,Furniture,247,425828,0,73446.29,Customer 287,CUST-1286,,955868,PROD-2286,ORD-3286,287,Same Day,29-01-2024,Home Office,Technology,Binders,India,Maharashtra,Pune
+01-06-2022,West,Groceries,112,134624,5,13814.97,Customer 288,CUST-1287,,951825,PROD-2287,ORD-3287,288,First Class,17-01-2024,Corporate,Furniture,Accessories,India,Karnataka,Mysuru
+01-07-2022,North,Electronics,98,114268,0,33390.72,Customer 289,CUST-1288,,557496,PROD-2288,ORD-3288,289,Second Class,16-01-2024,Corporate,Furniture,Chairs,India,Tamil Nadu,Coimbatore
+01-07-2022,North,Clothing,226,78422,15,16234.45,Customer 290,CUST-1289,,358849,PROD-2289,ORD-3289,290,Second Class,25-01-2024,Home Office,Office Supplies,Storage,India,Kerala,Thiruvananthapuram
+01-07-2022,North,Furniture,409,310840,0,50352.16,Customer 291,CUST-1290,,450804,PROD-2290,ORD-3290,291,Same Day,30-01-2024,Consumer,Furniture,Storage,India,Gujarat,Surat
+01-07-2022,North,Groceries,264,167376,10,43510.46,Customer 292,CUST-1291,,234350,PROD-2291,ORD-3291,292,Same Day,16-01-2024,Corporate,Technology,Binders,India,Rajasthan,Udaipur
+01-07-2022,South,Electronics,367,84777,20,19074.42,Customer 293,CUST-1292,,947710,PROD-2292,ORD-3292,293,Second Class,13-01-2024,Corporate,Office Supplies,Accessories,India,Punjab,Amritsar
+01-07-2022,South,Clothing,335,457945,10,51812.69,Customer 294,CUST-1293,,583762,PROD-2293,ORD-3293,294,First Class,04-01-2024,Consumer,Technology,Tables,India,Haryana,Faridabad
+01-07-2022,South,Furniture,127,202438,5,41475.1,Customer 295,CUST-1294,,898177,PROD-2294,ORD-3294,295,First Class,23-01-2024,Corporate,Office Supplies,Phones,India,Uttar Pradesh,Kanpur
+01-07-2022,South,Groceries,162,50706,10,6644.92,Customer 296,CUST-1295,,872639,PROD-2295,ORD-3295,296,Same Day,17-01-2024,Home Office,Technology,Binders,India,Madhya Pradesh,Indore
+01-07-2022,East,Electronics,434,645358,20,74281.14,Customer 297,CUST-1296,,634683,PROD-2296,ORD-3296,297,Same Day,22-01-2024,Corporate,Furniture,Accessories,India,Bihar,Gaya
+01-07-2022,East,Clothing,180,179820,5,27719.06,Customer 298,CUST-1297,,334999,PROD-2297,ORD-3297,298,First Class,12-01-2024,Home Office,Furniture,Storage,India,West Bengal,Howrah
+01-07-2022,East,Furniture,415,149815,15,38974.37,Customer 299,CUST-1298,,586027,PROD-2298,ORD-3298,299,Standard Class,28-01-2024,Consumer,Furniture,Tables,India,Odisha,Cuttack
+01-07-2022,East,Groceries,104,176696,5,48308.47,Customer 300,CUST-1299,,939739,PROD-2299,ORD-3299,300,Standard Class,05-01-2024,Home Office,Technology,Chairs,India,Telangana,Warangal
+01-07-2022,West,Electronics,57,58824,0,8493.86,Customer 301,CUST-1300,,842232,PROD-2300,ORD-3300,301,Standard Class,10-01-2024,Home Office,Furniture,Storage,India,Andhra Pradesh,Vijayawada
+01-07-2022,West,Clothing,492,979080,20,214428.11,Customer 302,CUST-1301,,671800,PROD-2301,ORD-3301,302,Same Day,28-01-2024,Home Office,Office Supplies,Accessories,India,Chhattisgarh,Bilaspur
+01-07-2022,West,Furniture,298,435676,20,59125.12,Customer 303,CUST-1302,,572153,PROD-2302,ORD-3302,303,First Class,25-01-2024,Home Office,Furniture,Binders,India,Jharkhand,Jamshedpur
+01-07-2022,West,Groceries,146,266742,5,69636.47,Customer 304,CUST-1303,,992551,PROD-2303,ORD-3303,304,Second Class,29-01-2024,Home Office,Technology,Storage,India,Assam,Silchar
+01-08-2022,North,Electronics,137,178237,10,52139.65,Customer 305,CUST-1304,,827257,PROD-2304,ORD-3304,305,Standard Class,11-01-2024,Home Office,Technology,Tables,India,Himachal Pradesh,Solan
+01-08-2022,North,Clothing,214,81534,20,14780.36,Customer 306,CUST-1305,,224847,PROD-2305,ORD-3305,306,First Class,30-01-2024,Corporate,Office Supplies,Binders,India,Uttarakhand,Haridwar
+01-08-2022,North,Furniture,360,411480,5,42218.01,Customer 307,CUST-1306,,993730,PROD-2306,ORD-3306,307,First Class,16-01-2024,Home Office,Office Supplies,Phones,India,Goa,Margao
+01-08-2022,North,Groceries,312,591552,20,62294.24,Customer 308,CUST-1307,,377750,PROD-2307,ORD-3307,308,Second Class,06-01-2024,Home Office,Furniture,Binders,India,Sikkim,Namchi
+01-08-2022,South,Electronics,430,479020,15,109496.84,Customer 309,CUST-1308,,545400,PROD-2308,ORD-3308,309,First Class,30-01-2024,Corporate,Technology,Binders,India,Maharashtra,Nagpur
+01-08-2022,South,Clothing,131,93403,0,24610.64,Customer 310,CUST-1309,,780574,PROD-2309,ORD-3309,310,First Class,04-01-2024,Consumer,Furniture,Chairs,India,Karnataka,Mangaluru
+01-08-2022,South,Furniture,453,790938,5,209615.55,Customer 311,CUST-1310,,818136,PROD-2310,ORD-3310,311,Same Day,26-01-2024,Corporate,Office Supplies,Accessories,India,Tamil Nadu,Madurai
+01-08-2022,South,Groceries,244,163480,15,43507.08,Customer 312,CUST-1311,,678720,PROD-2311,ORD-3311,312,First Class,25-01-2024,Consumer,Furniture,Binders,India,Kerala,Kozhikode
+01-08-2022,East,Electronics,342,387486,0,72547.18,Customer 313,CUST-1312,,684002,PROD-2312,ORD-3312,313,Second Class,16-01-2024,Corporate,Technology,Binders,India,Gujarat,Vadodara
+01-08-2022,East,Clothing,477,821871,5,207704.19,Customer 314,CUST-1313,,662439,PROD-2313,ORD-3313,314,Same Day,06-01-2024,Corporate,Office Supplies,Phones,India,Rajasthan,Jodhpur
+01-08-2022,East,Furniture,329,260568,5,55541.46,Customer 315,CUST-1314,,246630,PROD-2314,ORD-3314,315,Same Day,14-01-2024,Consumer,Furniture,Chairs,India,Punjab,Jalandhar
+01-08-2022,East,Groceries,108,210600,0,41478.86,Customer 316,CUST-1315,,375165,PROD-2315,ORD-3315,316,Standard Class,06-01-2024,Home Office,Furniture,Binders,India,Haryana,Panipat
+01-08-2022,West,Electronics,258,187050,0,38967.54,Customer 317,CUST-1316,,928636,PROD-2316,ORD-3316,317,Standard Class,14-01-2024,Consumer,Technology,Binders,India,Uttar Pradesh,Noida
+01-08-2022,West,Clothing,286,430144,0,55003.04,Customer 318,CUST-1317,,673450,PROD-2317,ORD-3317,318,Second Class,16-01-2024,Corporate,Office Supplies,Chairs,India,Madhya Pradesh,Gwalior
+01-08-2022,West,Furniture,284,196812,15,24887.91,Customer 319,CUST-1318,,223125,PROD-2318,ORD-3318,319,Standard Class,07-01-2024,Home Office,Technology,Phones,India,Bihar,Bhagalpur
+01-08-2022,West,Groceries,78,103896,5,16047.93,Customer 320,CUST-1319,,848256,PROD-2319,ORD-3319,320,First Class,27-01-2024,Corporate,Furniture,Binders,India,West Bengal,Durgapur
+01-09-2022,North,Electronics,124,128588,5,26480.43,Customer 321,CUST-1320,,166123,PROD-2320,ORD-3320,321,Second Class,13-01-2024,Home Office,Technology,Binders,India,Odisha,Rourkela
+01-09-2022,North,Clothing,91,143689,0,22244.64,Customer 322,CUST-1321,,787436,PROD-2321,ORD-3321,322,First Class,18-01-2024,Consumer,Technology,Storage,India,Telangana,Nizamabad
+01-09-2022,North,Furniture,66,125400,0,25016.42,Customer 323,CUST-1322,,179696,PROD-2322,ORD-3322,323,First Class,06-01-2024,Consumer,Furniture,Phones,India,Andhra Pradesh,Guntur
+01-09-2022,North,Groceries,125,227750,20,23275.86,Customer 324,CUST-1323,,988042,PROD-2323,ORD-3323,324,Standard Class,14-01-2024,Home Office,Office Supplies,Storage,India,Chhattisgarh,Durg
+01-09-2022,South,Electronics,76,114760,10,25187.83,Customer 325,CUST-1324,,271049,PROD-2324,ORD-3324,325,First Class,03-01-2024,Consumer,Furniture,Tables,India,Jharkhand,Dhanbad
+01-09-2022,South,Clothing,317,625124,0,124308.89,Customer 326,CUST-1325,,730016,PROD-2325,ORD-3325,326,First Class,16-01-2024,Home Office,Technology,Phones,India,Assam,Dibrugarh
+01-09-2022,South,Furniture,443,845244,0,155317.05,Customer 327,CUST-1326,,953873,PROD-2326,ORD-3326,327,Standard Class,15-01-2024,Home Office,Furniture,Accessories,India,Himachal Pradesh,Dharamshala
+01-09-2022,South,Groceries,239,199087,5,26529.67,Customer 328,CUST-1327,,917660,PROD-2327,ORD-3327,328,First Class,21-01-2024,Corporate,Technology,Tables,India,Uttarakhand,Haldwani
+01-09-2022,East,Electronics,412,794336,10,93785.18,Customer 329,CUST-1328,,451199,PROD-2328,ORD-3328,329,Standard Class,24-01-2024,Home Office,Office Supplies,Binders,India,Goa,Vasco da Gama
+01-09-2022,East,Clothing,420,417060,20,74177.93,Customer 330,CUST-1329,,710401,PROD-2329,ORD-3329,330,Standard Class,03-01-2024,Corporate,Furniture,Tables,India,Sikkim,Gyalshing
+01-09-2022,East,Furniture,345,72450,15,17663.98,Customer 331,CUST-1330,,658969,PROD-2330,ORD-3330,331,Same Day,29-01-2024,Corporate,Office Supplies,Tables,India,Maharashtra,Mumbai
+01-09-2022,East,Groceries,344,324392,10,94028.71,Customer 332,CUST-1331,,340532,PROD-2331,ORD-3331,332,First Class,23-01-2024,Home Office,Technology,Phones,India,Karnataka,Bengaluru
+01-09-2022,West,Electronics,104,85488,20,16819.85,Customer 333,CUST-1332,,343270,PROD-2332,ORD-3332,333,Second Class,26-01-2024,Corporate,Furniture,Tables,India,Tamil Nadu,Chennai
+01-09-2022,West,Clothing,299,529529,15,70111.11,Customer 334,CUST-1333,,867075,PROD-2333,ORD-3333,334,Second Class,17-01-2024,Consumer,Furniture,Storage,India,Kerala,Kochi
+01-09-2022,West,Furniture,293,502202,0,100075.42,Customer 335,CUST-1334,,759476,PROD-2334,ORD-3334,335,Second Class,11-01-2024,Corporate,Office Supplies,Phones,India,Gujarat,Ahmedabad
+01-09-2022,West,Groceries,414,281934,0,71662.67,Customer 336,CUST-1335,,800404,PROD-2335,ORD-3335,336,First Class,22-01-2024,Consumer,Technology,Storage,India,Rajasthan,Jaipur
+01-10-2022,North,Electronics,122,111264,0,20312.21,Customer 337,CUST-1336,,329852,PROD-2336,ORD-3336,337,Same Day,24-01-2024,Home Office,Technology,Tables,India,Punjab,Ludhiana
+01-10-2022,North,Clothing,110,125180,5,24026.59,Customer 338,CUST-1337,,709731,PROD-2337,ORD-3337,338,First Class,04-01-2024,Consumer,Office Supplies,Phones,India,Haryana,Gurugram
+01-10-2022,North,Furniture,340,112200,5,29158.89,Customer 339,CUST-1338,,973373,PROD-2338,ORD-3338,339,First Class,30-01-2024,Consumer,Technology,Phones,India,Uttar Pradesh,Lucknow
+01-10-2022,North,Groceries,221,366418,5,44196.88,Customer 340,CUST-1339,,191810,PROD-2339,ORD-3339,340,First Class,19-01-2024,Consumer,Technology,Storage,India,Madhya Pradesh,Bhopal
+01-10-2022,South,Electronics,150,190050,10,53872.09,Customer 341,CUST-1340,,500635,PROD-2340,ORD-3340,341,First Class,09-01-2024,Corporate,Furniture,Binders,India,Bihar,Patna
+01-10-2022,South,Clothing,494,612560,5,145857.92,Customer 342,CUST-1341,,275141,PROD-2341,ORD-3341,342,Second Class,14-01-2024,Home Office,Technology,Chairs,India,West Bengal,Kolkata
+01-10-2022,South,Furniture,352,74272,10,18303.96,Customer 343,CUST-1342,,199762,PROD-2342,ORD-3342,343,Standard Class,16-01-2024,Corporate,Office Supplies,Accessories,India,Odisha,Bhubaneswar
+01-10-2022,South,Groceries,198,258192,20,61567.25,Customer 344,CUST-1343,,476307,PROD-2343,ORD-3343,344,Same Day,07-01-2024,Consumer,Furniture,Tables,India,Telangana,Hyderabad
+01-10-2022,East,Electronics,247,351481,0,98651.14,Customer 345,CUST-1344,,243266,PROD-2344,ORD-3344,345,Second Class,17-01-2024,Consumer,Technology,Binders,India,Andhra Pradesh,Visakhapatnam
+01-10-2022,East,Clothing,317,595326,10,177129.49,Customer 346,CUST-1345,,832040,PROD-2345,ORD-3345,346,Standard Class,21-01-2024,Consumer,Technology,Phones,India,Chhattisgarh,Raipur
+01-10-2022,East,Furniture,414,729054,5,158680.61,Customer 347,CUST-1346,,597563,PROD-2346,ORD-3346,347,Second Class,05-01-2024,Consumer,Technology,Binders,India,Jharkhand,Ranchi
+01-10-2022,East,Groceries,450,531000,5,86325.19,Customer 348,CUST-1347,,955925,PROD-2347,ORD-3347,348,Standard Class,20-01-2024,Home Office,Office Supplies,Binders,India,Assam,Guwahati
+01-10-2022,West,Electronics,384,317952,0,44042.65,Customer 349,CUST-1348,,795212,PROD-2348,ORD-3348,349,Second Class,10-01-2024,Home Office,Technology,Chairs,India,Himachal Pradesh,Shimla
+01-10-2022,West,Clothing,377,648817,10,187412.93,Customer 350,CUST-1349,,340640,PROD-2349,ORD-3349,350,Second Class,13-01-2024,Consumer,Furniture,Storage,India,Uttarakhand,Dehradun
+01-10-2022,West,Furniture,131,189426,15,50938.52,Customer 351,CUST-1350,,527273,PROD-2350,ORD-3350,351,Second Class,20-01-2024,Home Office,Technology,Phones,India,Goa,Panaji
+01-10-2022,West,Groceries,451,751366,5,171994.69,Customer 352,CUST-1351,,708814,PROD-2351,ORD-3351,352,Standard Class,04-01-2024,Consumer,Office Supplies,Phones,India,Sikkim,Gangtok
+01-11-2022,North,Electronics,63,87066,10,18469.78,Customer 353,CUST-1352,,252577,PROD-2352,ORD-3352,353,Same Day,22-01-2024,Home Office,Furniture,Chairs,India,Maharashtra,Pune
+01-11-2022,North,Clothing,350,462350,10,110620.82,Customer 354,CUST-1353,,913961,PROD-2353,ORD-3353,354,Standard Class,04-01-2024,Corporate,Office Supplies,Storage,India,Karnataka,Mysuru
+01-11-2022,North,Furniture,473,560505,15,120220.22,Customer 355,CUST-1354,,593481,PROD-2354,ORD-3354,355,Second Class,28-01-2024,Consumer,Technology,Storage,India,Tamil Nadu,Coimbatore
+01-11-2022,North,Groceries,425,295800,15,76359.18,Customer 356,CUST-1355,,426855,PROD-2355,ORD-3355,356,Same Day,08-01-2024,Consumer,Technology,Binders,India,Kerala,Thiruvananthapuram
+01-11-2022,South,Electronics,458,741960,5,151384.79,Customer 357,CUST-1356,,420672,PROD-2356,ORD-3356,357,Second Class,07-01-2024,Home Office,Technology,Tables,India,Gujarat,Surat
+01-11-2022,South,Clothing,475,632225,5,66307.86,Customer 358,CUST-1357,,163509,PROD-2357,ORD-3357,358,First Class,13-01-2024,Consumer,Furniture,Phones,India,Rajasthan,Udaipur
+01-11-2022,South,Furniture,219,163155,10,44857.89,Customer 359,CUST-1358,,636800,PROD-2358,ORD-3358,359,First Class,06-01-2024,Consumer,Office Supplies,Accessories,India,Punjab,Amritsar
+01-11-2022,South,Groceries,190,284430,10,32426.71,Customer 360,CUST-1359,,702901,PROD-2359,ORD-3359,360,Second Class,07-01-2024,Corporate,Furniture,Accessories,India,Haryana,Faridabad
+01-11-2022,East,Electronics,351,80028,0,14435.95,Customer 361,CUST-1360,,545431,PROD-2360,ORD-3360,361,First Class,25-01-2024,Home Office,Office Supplies,Chairs,India,Uttar Pradesh,Kanpur
+01-11-2022,East,Clothing,294,278418,0,60180.45,Customer 362,CUST-1361,,321499,PROD-2361,ORD-3361,362,First Class,21-01-2024,Consumer,Furniture,Chairs,India,Madhya Pradesh,Indore
+01-11-2022,East,Furniture,285,416670,0,105690.3,Customer 363,CUST-1362,,691606,PROD-2362,ORD-3362,363,First Class,04-01-2024,Home Office,Technology,Storage,India,Bihar,Gaya
+01-11-2022,East,Groceries,458,724556,15,179339.54,Customer 364,CUST-1363,,310363,PROD-2363,ORD-3363,364,Standard Class,15-01-2024,Corporate,Office Supplies,Tables,India,West Bengal,Howrah
+01-11-2022,West,Electronics,226,45652,20,7803.04,Customer 365,CUST-1364,,153507,PROD-2364,ORD-3364,365,Standard Class,24-01-2024,Home Office,Furniture,Phones,India,Odisha,Cuttack
+01-11-2022,West,Clothing,207,108261,5,15884.22,Customer 366,CUST-1365,,862765,PROD-2365,ORD-3365,366,First Class,28-01-2024,Corporate,Technology,Chairs,India,Telangana,Warangal
+01-11-2022,West,Furniture,202,127462,0,35952.93,Customer 367,CUST-1366,,214587,PROD-2366,ORD-3366,367,First Class,14-01-2024,Home Office,Office Supplies,Tables,India,Andhra Pradesh,Vijayawada
+01-11-2022,West,Groceries,122,72956,0,13009.95,Customer 368,CUST-1367,,868373,PROD-2367,ORD-3367,368,Standard Class,13-01-2024,Home Office,Office Supplies,Storage,India,Chhattisgarh,Bilaspur
+01-12-2022,North,Electronics,189,72954,5,18938.7,Customer 369,CUST-1368,,123858,PROD-2368,ORD-3368,369,First Class,15-01-2024,Home Office,Office Supplies,Tables,India,Jharkhand,Jamshedpur
+01-12-2022,North,Clothing,476,763028,10,214216.14,Customer 370,CUST-1369,,729547,PROD-2369,ORD-3369,370,Second Class,07-01-2024,Corporate,Technology,Accessories,India,Assam,Silchar
+01-12-2022,North,Furniture,275,378400,15,42758.17,Customer 371,CUST-1370,,742698,PROD-2370,ORD-3370,371,First Class,03-01-2024,Consumer,Office Supplies,Chairs,India,Himachal Pradesh,Solan
+01-12-2022,North,Groceries,121,227843,20,52387.79,Customer 372,CUST-1371,,187026,PROD-2371,ORD-3371,372,Second Class,24-01-2024,Home Office,Technology,Phones,India,Uttarakhand,Haridwar
+01-12-2022,South,Electronics,422,618652,20,76754.76,Customer 373,CUST-1372,,620290,PROD-2372,ORD-3372,373,Second Class,16-01-2024,Corporate,Office Supplies,Phones,India,Goa,Margao
+01-12-2022,South,Clothing,156,66300,0,9553.65,Customer 374,CUST-1373,,396027,PROD-2373,ORD-3373,374,Same Day,05-01-2024,Consumer,Office Supplies,Binders,India,Sikkim,Namchi
+01-12-2022,South,Furniture,290,204450,10,54228.55,Customer 375,CUST-1374,,881040,PROD-2374,ORD-3374,375,Standard Class,29-01-2024,Corporate,Technology,Phones,India,Maharashtra,Nagpur
+01-12-2022,South,Groceries,54,107784,0,21950.44,Customer 376,CUST-1375,,792860,PROD-2375,ORD-3375,376,First Class,05-01-2024,Home Office,Technology,Storage,India,Karnataka,Mangaluru
+01-12-2022,East,Electronics,69,136344,20,20730.65,Customer 377,CUST-1376,,914335,PROD-2376,ORD-3376,377,Standard Class,02-01-2024,Corporate,Furniture,Phones,India,Tamil Nadu,Madurai
+01-12-2022,East,Clothing,468,416052,5,99521.35,Customer 378,CUST-1377,,996377,PROD-2377,ORD-3377,378,First Class,11-01-2024,Home Office,Office Supplies,Binders,India,Kerala,Kozhikode
+01-12-2022,East,Furniture,265,53530,10,7755.86,Customer 379,CUST-1378,,204338,PROD-2378,ORD-3378,379,Standard Class,20-01-2024,Home Office,Technology,Binders,India,Gujarat,Vadodara
+01-12-2022,East,Groceries,169,184548,0,40339.98,Customer 380,CUST-1379,,497316,PROD-2379,ORD-3379,380,First Class,21-01-2024,Home Office,Furniture,Accessories,India,Rajasthan,Jodhpur
+01-12-2022,West,Electronics,447,706260,5,135239.2,Customer 381,CUST-1380,,196186,PROD-2380,ORD-3380,381,Same Day,13-01-2024,Consumer,Office Supplies,Chairs,India,Punjab,Jalandhar
+01-12-2022,West,Clothing,489,755994,10,95181.9,Customer 382,CUST-1381,,222510,PROD-2381,ORD-3381,382,First Class,07-01-2024,Corporate,Office Supplies,Binders,India,Haryana,Panipat
+01-12-2022,West,Furniture,186,263748,0,71327.67,Customer 383,CUST-1382,,613351,PROD-2382,ORD-3382,383,Second Class,17-01-2024,Corporate,Furniture,Accessories,India,Uttar Pradesh,Noida
+01-12-2022,West,Groceries,219,157680,0,33139.84,Customer 384,CUST-1383,,606107,PROD-2383,ORD-3383,384,Second Class,07-01-2024,Home Office,Technology,Tables,India,Madhya Pradesh,Gwalior
+01-01-2023,North,Electronics,492,712908,15,124429.33,Customer 385,CUST-1384,,323744,PROD-2384,ORD-3384,385,Same Day,11-01-2024,Consumer,Technology,Phones,India,Bihar,Bhagalpur
+01-01-2023,North,Clothing,377,555698,20,60991.59,Customer 386,CUST-1385,,382619,PROD-2385,ORD-3385,386,Second Class,02-01-2024,Home Office,Furniture,Phones,India,West Bengal,Durgapur
+01-01-2023,North,Furniture,451,294503,20,42419.22,Customer 387,CUST-1386,,589068,PROD-2386,ORD-3386,387,Standard Class,05-01-2024,Home Office,Office Supplies,Storage,India,Odisha,Rourkela
+01-01-2023,North,Groceries,333,390276,0,43829.32,Customer 388,CUST-1387,,836400,PROD-2387,ORD-3387,388,First Class,14-01-2024,Home Office,Furniture,Accessories,India,Telangana,Nizamabad
+01-01-2023,South,Electronics,350,148050,20,41646.87,Customer 389,CUST-1388,,948619,PROD-2388,ORD-3388,389,Second Class,09-01-2024,Home Office,Furniture,Chairs,India,Andhra Pradesh,Guntur
+01-01-2023,South,Clothing,372,666252,5,139083.96,Customer 390,CUST-1389,,133467,PROD-2389,ORD-3389,390,Standard Class,30-01-2024,Corporate,Technology,Tables,India,Chhattisgarh,Durg
+01-01-2023,South,Furniture,286,432432,10,118327.3,Customer 391,CUST-1390,,909541,PROD-2390,ORD-3390,391,Same Day,24-01-2024,Home Office,Technology,Phones,India,Jharkhand,Dhanbad
+01-01-2023,South,Groceries,141,77832,10,21283.85,Customer 392,CUST-1391,,132117,PROD-2391,ORD-3391,392,Standard Class,24-01-2024,Home Office,Technology,Storage,India,Assam,Dibrugarh
+01-01-2023,East,Electronics,218,213640,10,31562.75,Customer 393,CUST-1392,,836695,PROD-2392,ORD-3392,393,Standard Class,24-01-2024,Consumer,Office Supplies,Accessories,India,Himachal Pradesh,Dharamshala
+01-01-2023,East,Clothing,230,320390,15,71678.38,Customer 394,CUST-1393,,875138,PROD-2393,ORD-3393,394,First Class,12-01-2024,Consumer,Technology,Binders,India,Uttarakhand,Haldwani
+01-01-2023,East,Furniture,471,423429,20,116940.14,Customer 395,CUST-1394,,146057,PROD-2394,ORD-3394,395,First Class,08-01-2024,Home Office,Furniture,Binders,India,Goa,Vasco da Gama
+01-01-2023,East,Groceries,363,348480,10,96115.77,Customer 396,CUST-1395,,301343,PROD-2395,ORD-3395,396,Same Day,23-01-2024,Consumer,Office Supplies,Chairs,India,Sikkim,Gyalshing
+01-01-2023,West,Electronics,475,768075,10,111927.75,Customer 397,CUST-1396,,291553,PROD-2396,ORD-3396,397,Second Class,11-01-2024,Consumer,Technology,Tables,India,Maharashtra,Mumbai
+01-01-2023,West,Clothing,88,24728,15,5223.45,Customer 398,CUST-1397,,603158,PROD-2397,ORD-3397,398,First Class,17-01-2024,Consumer,Furniture,Accessories,India,Karnataka,Bengaluru
+01-01-2023,West,Furniture,126,220122,5,34648.88,Customer 399,CUST-1398,,461060,PROD-2398,ORD-3398,399,Standard Class,30-01-2024,Home Office,Furniture,Tables,India,Tamil Nadu,Chennai
+01-01-2023,West,Groceries,95,179550,0,38059.01,Customer 400,CUST-1399,,252357,PROD-2399,ORD-3399,400,Standard Class,22-01-2024,Corporate,Technology,Phones,India,Kerala,Kochi
+01-02-2023,North,Electronics,409,591414,5,134133.37,Customer 401,CUST-1400,,405631,PROD-2400,ORD-3400,401,Same Day,12-01-2024,Consumer,Technology,Accessories,India,Gujarat,Ahmedabad
+01-02-2023,North,Clothing,393,221652,10,27859.38,Customer 402,CUST-1401,,203611,PROD-2401,ORD-3401,402,Same Day,21-01-2024,Home Office,Furniture,Storage,India,Rajasthan,Jaipur
+01-02-2023,North,Furniture,463,776914,5,144854.18,Customer 403,CUST-1402,,763184,PROD-2402,ORD-3402,403,First Class,23-01-2024,Consumer,Office Supplies,Accessories,India,Punjab,Ludhiana
+01-02-2023,North,Groceries,368,601680,15,81767.99,Customer 404,CUST-1403,,735837,PROD-2403,ORD-3403,404,Standard Class,23-01-2024,Home Office,Furniture,Accessories,India,Haryana,Gurugram
+01-02-2023,South,Electronics,86,102168,15,13767.21,Customer 405,CUST-1404,,502524,PROD-2404,ORD-3404,405,Same Day,24-01-2024,Corporate,Technology,Chairs,India,Uttar Pradesh,Lucknow
+01-02-2023,South,Clothing,291,450177,10,59997.57,Customer 406,CUST-1405,,625353,PROD-2405,ORD-3405,406,Standard Class,27-01-2024,Corporate,Office Supplies,Tables,India,Madhya Pradesh,Bhopal
+01-02-2023,South,Furniture,61,68137,0,14747.17,Customer 407,CUST-1406,,896188,PROD-2406,ORD-3406,407,Second Class,03-01-2024,Corporate,Technology,Phones,India,Bihar,Patna
+01-02-2023,South,Groceries,242,53482,5,6147.16,Customer 408,CUST-1407,,227062,PROD-2407,ORD-3407,408,Standard Class,20-01-2024,Home Office,Furniture,Storage,India,West Bengal,Kolkata
+01-02-2023,East,Electronics,259,130795,20,24745.32,Customer 409,CUST-1408,,220273,PROD-2408,ORD-3408,409,Second Class,11-01-2024,Home Office,Office Supplies,Tables,India,Odisha,Bhubaneswar
+01-02-2023,East,Clothing,300,435000,15,109468.9,Customer 410,CUST-1409,,160564,PROD-2409,ORD-3409,410,Second Class,24-01-2024,Home Office,Office Supplies,Accessories,India,Telangana,Hyderabad
+01-02-2023,East,Furniture,56,12768,10,3374.62,Customer 411,CUST-1410,,207054,PROD-2410,ORD-3410,411,First Class,18-01-2024,Corporate,Furniture,Binders,India,Andhra Pradesh,Visakhapatnam
+01-02-2023,East,Groceries,416,115648,10,17405.23,Customer 412,CUST-1411,,560114,PROD-2411,ORD-3411,412,First Class,19-01-2024,Home Office,Furniture,Tables,India,Chhattisgarh,Raipur
+01-02-2023,West,Electronics,75,127875,5,38288.96,Customer 413,CUST-1412,,181511,PROD-2412,ORD-3412,413,Second Class,11-01-2024,Corporate,Furniture,Storage,India,Jharkhand,Ranchi
+01-02-2023,West,Clothing,148,88208,0,11707.39,Customer 414,CUST-1413,,338023,PROD-2413,ORD-3413,414,Second Class,27-01-2024,Consumer,Office Supplies,Chairs,India,Assam,Guwahati
+01-02-2023,West,Furniture,424,422304,20,67431.34,Customer 415,CUST-1414,,679516,PROD-2414,ORD-3414,415,Second Class,29-01-2024,Home Office,Furniture,Binders,India,Himachal Pradesh,Shimla
+01-02-2023,West,Groceries,337,455961,15,105282.42,Customer 416,CUST-1415,,777880,PROD-2415,ORD-3415,416,Second Class,29-01-2024,Corporate,Furniture,Accessories,India,Uttarakhand,Dehradun
+01-03-2023,North,Electronics,76,146680,0,42925.51,Customer 417,CUST-1416,,599229,PROD-2416,ORD-3416,417,First Class,26-01-2024,Home Office,Office Supplies,Binders,India,Goa,Panaji
+01-03-2023,North,Clothing,489,893403,20,257946.16,Customer 418,CUST-1417,,670696,PROD-2417,ORD-3417,418,Standard Class,27-01-2024,Consumer,Technology,Binders,India,Sikkim,Gangtok
+01-03-2023,North,Furniture,406,114898,10,17791.16,Customer 419,CUST-1418,,534605,PROD-2418,ORD-3418,419,Same Day,23-01-2024,Corporate,Office Supplies,Storage,India,Maharashtra,Pune
+01-03-2023,North,Groceries,436,754280,0,123813.97,Customer 420,CUST-1419,,768206,PROD-2419,ORD-3419,420,Same Day,12-01-2024,Corporate,Furniture,Storage,India,Karnataka,Mysuru
+01-03-2023,South,Electronics,471,824250,5,117555.31,Customer 421,CUST-1420,,474425,PROD-2420,ORD-3420,421,Second Class,28-01-2024,Home Office,Technology,Chairs,India,Tamil Nadu,Coimbatore
+01-03-2023,South,Clothing,369,445752,0,108310.96,Customer 422,CUST-1421,,698941,PROD-2421,ORD-3421,422,First Class,11-01-2024,Home Office,Technology,Phones,India,Kerala,Thiruvananthapuram
+01-03-2023,South,Furniture,323,482562,15,93926.82,Customer 423,CUST-1422,,729232,PROD-2422,ORD-3422,423,Same Day,03-01-2024,Consumer,Furniture,Accessories,India,Gujarat,Surat
+01-03-2023,South,Groceries,121,155243,0,42493.83,Customer 424,CUST-1423,,235464,PROD-2423,ORD-3423,424,Standard Class,02-01-2024,Corporate,Technology,Binders,India,Rajasthan,Udaipur
+01-03-2023,East,Electronics,358,257402,10,69229.98,Customer 425,CUST-1424,,695577,PROD-2424,ORD-3424,425,Same Day,08-01-2024,Home Office,Office Supplies,Accessories,India,Punjab,Amritsar
+01-03-2023,East,Clothing,248,145328,20,18347.51,Customer 426,CUST-1425,,414858,PROD-2425,ORD-3425,426,Same Day,03-01-2024,Consumer,Technology,Storage,India,Haryana,Faridabad
+01-03-2023,East,Furniture,230,404570,15,118742.21,Customer 427,CUST-1426,,754058,PROD-2426,ORD-3426,427,Standard Class,04-01-2024,Home Office,Technology,Phones,India,Uttar Pradesh,Kanpur
+01-03-2023,East,Groceries,453,806793,0,80878.07,Customer 428,CUST-1427,,517485,PROD-2427,ORD-3427,428,First Class,05-01-2024,Corporate,Furniture,Phones,India,Madhya Pradesh,Indore
+01-03-2023,West,Electronics,322,469798,15,87411.17,Customer 429,CUST-1428,,447790,PROD-2428,ORD-3428,429,First Class,26-01-2024,Consumer,Technology,Tables,India,Bihar,Gaya
+01-03-2023,West,Clothing,215,261440,15,29501.36,Customer 430,CUST-1429,,367137,PROD-2429,ORD-3429,430,First Class,15-01-2024,Corporate,Technology,Tables,India,West Bengal,Howrah
+01-03-2023,West,Furniture,166,97110,10,28829.07,Customer 431,CUST-1430,,976137,PROD-2430,ORD-3430,431,First Class,10-01-2024,Home Office,Office Supplies,Chairs,India,Odisha,Cuttack
+01-03-2023,West,Groceries,258,69918,20,8004.87,Customer 432,CUST-1431,,502942,PROD-2431,ORD-3431,432,Standard Class,12-01-2024,Corporate,Office Supplies,Storage,India,Telangana,Warangal
+01-04-2023,North,Electronics,369,198153,10,47357.85,Customer 433,CUST-1432,,996762,PROD-2432,ORD-3432,433,Same Day,25-01-2024,Corporate,Technology,Storage,India,Andhra Pradesh,Vijayawada
+01-04-2023,North,Clothing,338,101738,0,10979.95,Customer 434,CUST-1433,,403232,PROD-2433,ORD-3433,434,Second Class,07-01-2024,Corporate,Office Supplies,Chairs,India,Chhattisgarh,Bilaspur
+01-04-2023,North,Furniture,263,503382,0,74706.42,Customer 435,CUST-1434,,842175,PROD-2434,ORD-3434,435,Standard Class,06-01-2024,Home Office,Office Supplies,Binders,India,Jharkhand,Jamshedpur
+01-04-2023,North,Groceries,426,540594,15,130009.07,Customer 436,CUST-1435,,251426,PROD-2435,ORD-3435,436,First Class,10-01-2024,Corporate,Office Supplies,Binders,India,Assam,Silchar
+01-04-2023,South,Electronics,251,284885,5,47089.29,Customer 437,CUST-1436,,982021,PROD-2436,ORD-3436,437,First Class,29-01-2024,Consumer,Furniture,Storage,India,Himachal Pradesh,Solan
+01-04-2023,South,Clothing,51,21624,0,5979.18,Customer 438,CUST-1437,,944312,PROD-2437,ORD-3437,438,Same Day,13-01-2024,Consumer,Furniture,Tables,India,Uttarakhand,Haridwar
+01-04-2023,South,Furniture,463,364844,15,62592.74,Customer 439,CUST-1438,,119912,PROD-2438,ORD-3438,439,First Class,06-01-2024,Home Office,Technology,Accessories,India,Goa,Margao
+01-04-2023,South,Groceries,152,59736,5,14210.78,Customer 440,CUST-1439,,448282,PROD-2439,ORD-3439,440,First Class,06-01-2024,Corporate,Office Supplies,Tables,India,Sikkim,Namchi
+01-04-2023,East,Electronics,192,229056,5,30578.18,Customer 441,CUST-1440,,709103,PROD-2440,ORD-3440,441,First Class,29-01-2024,Consumer,Furniture,Tables,India,Maharashtra,Nagpur
+01-04-2023,East,Clothing,354,182664,10,51007.87,Customer 442,CUST-1441,,495539,PROD-2441,ORD-3441,442,First Class,22-01-2024,Corporate,Technology,Binders,India,Karnataka,Mangaluru
+01-04-2023,East,Furniture,58,56434,0,6229.99,Customer 443,CUST-1442,,814846,PROD-2442,ORD-3442,443,Second Class,09-01-2024,Consumer,Office Supplies,Storage,India,Tamil Nadu,Madurai
+01-04-2023,East,Groceries,465,349680,5,100372.27,Customer 444,CUST-1443,,767531,PROD-2443,ORD-3443,444,Standard Class,10-01-2024,Consumer,Technology,Accessories,India,Kerala,Kozhikode
+01-04-2023,West,Electronics,377,721201,15,187761.52,Customer 445,CUST-1444,,349742,PROD-2444,ORD-3444,445,Standard Class,07-01-2024,Consumer,Technology,Accessories,India,Gujarat,Vadodara
+01-04-2023,West,Clothing,367,113770,10,22399.0,Customer 446,CUST-1445,,243743,PROD-2445,ORD-3445,446,Same Day,19-01-2024,Home Office,Office Supplies,Accessories,India,Rajasthan,Jodhpur
+01-04-2023,West,Furniture,133,54131,15,11881.49,Customer 447,CUST-1446,,984796,PROD-2446,ORD-3446,447,Standard Class,13-01-2024,Home Office,Furniture,Binders,India,Punjab,Jalandhar
+01-04-2023,West,Groceries,71,43239,10,4676.33,Customer 448,CUST-1447,,193691,PROD-2447,ORD-3447,448,Standard Class,17-01-2024,Consumer,Technology,Binders,India,Haryana,Panipat
+01-05-2023,North,Electronics,237,254301,10,62294.92,Customer 449,CUST-1448,,222171,PROD-2448,ORD-3448,449,Second Class,24-01-2024,Home Office,Furniture,Tables,India,Uttar Pradesh,Noida
+01-05-2023,North,Clothing,61,17446,15,2301.28,Customer 450,CUST-1449,,122004,PROD-2449,ORD-3449,450,Standard Class,14-01-2024,Home Office,Office Supplies,Accessories,India,Madhya Pradesh,Gwalior
+01-05-2023,North,Furniture,350,513100,5,85073.77,Customer 451,CUST-1450,,199133,PROD-2450,ORD-3450,451,Standard Class,06-01-2024,Consumer,Office Supplies,Chairs,India,Bihar,Bhagalpur
+01-05-2023,North,Groceries,287,453173,20,61823.48,Customer 452,CUST-1451,,574556,PROD-2451,ORD-3451,452,First Class,23-01-2024,Home Office,Office Supplies,Phones,India,West Bengal,Durgapur
+01-05-2023,South,Electronics,168,85344,10,11293.96,Customer 453,CUST-1452,,966414,PROD-2452,ORD-3452,453,Standard Class,02-01-2024,Consumer,Furniture,Accessories,India,Odisha,Rourkela
+01-05-2023,South,Clothing,451,877646,20,262650.3,Customer 454,CUST-1453,,722812,PROD-2453,ORD-3453,454,Same Day,03-01-2024,Corporate,Office Supplies,Chairs,India,Telangana,Nizamabad
+01-05-2023,South,Furniture,410,525620,10,61132.39,Customer 455,CUST-1454,,875136,PROD-2454,ORD-3454,455,First Class,26-01-2024,Consumer,Office Supplies,Accessories,India,Andhra Pradesh,Guntur
+01-05-2023,South,Groceries,292,68328,20,7819.43,Customer 456,CUST-1455,,701157,PROD-2455,ORD-3455,456,First Class,10-01-2024,Corporate,Office Supplies,Tables,India,Chhattisgarh,Durg
+01-05-2023,East,Electronics,496,709280,0,190151.22,Customer 457,CUST-1456,,464633,PROD-2456,ORD-3456,457,Second Class,02-01-2024,Corporate,Technology,Phones,India,Jharkhand,Dhanbad
+01-05-2023,East,Clothing,354,375594,20,92183.47,Customer 458,CUST-1457,,648850,PROD-2457,ORD-3457,458,Standard Class,03-01-2024,Consumer,Office Supplies,Accessories,India,Assam,Dibrugarh
+01-05-2023,East,Furniture,494,110162,15,24869.4,Customer 459,CUST-1458,,587819,PROD-2458,ORD-3458,459,Second Class,23-01-2024,Home Office,Furniture,Accessories,India,Himachal Pradesh,Dharamshala
+01-05-2023,East,Groceries,269,426903,15,85794.26,Customer 460,CUST-1459,,682503,PROD-2459,ORD-3459,460,Standard Class,25-01-2024,Corporate,Technology,Chairs,India,Uttarakhand,Haldwani
+01-05-2023,West,Electronics,99,189288,10,40836.06,Customer 461,CUST-1460,,971022,PROD-2460,ORD-3460,461,First Class,24-01-2024,Home Office,Furniture,Tables,India,Goa,Vasco da Gama
+01-05-2023,West,Clothing,469,690837,20,123731.0,Customer 462,CUST-1461,,768110,PROD-2461,ORD-3461,462,Same Day,10-01-2024,Corporate,Furniture,Chairs,India,Sikkim,Gyalshing
+01-05-2023,West,Furniture,277,215229,5,55656.33,Customer 463,CUST-1462,,650821,PROD-2462,ORD-3462,463,Standard Class,09-01-2024,Consumer,Office Supplies,Chairs,India,Maharashtra,Mumbai
+01-05-2023,West,Groceries,344,328176,10,51448.45,Customer 464,CUST-1463,,526374,PROD-2463,ORD-3463,464,First Class,26-01-2024,Consumer,Technology,Binders,India,Karnataka,Bengaluru
+01-06-2023,North,Electronics,174,259434,10,58267.14,Customer 465,CUST-1464,,858749,PROD-2464,ORD-3464,465,Same Day,10-01-2024,Consumer,Office Supplies,Storage,India,Tamil Nadu,Chennai
+01-06-2023,North,Clothing,89,19580,0,2473.22,Customer 466,CUST-1465,,433406,PROD-2465,ORD-3465,466,Same Day,02-01-2024,Consumer,Technology,Phones,India,Kerala,Kochi
+01-06-2023,North,Furniture,57,17043,5,2513.99,Customer 467,CUST-1466,,497188,PROD-2466,ORD-3466,467,Second Class,06-01-2024,Corporate,Furniture,Phones,India,Gujarat,Ahmedabad
+01-06-2023,North,Groceries,383,76983,20,20852.93,Customer 468,CUST-1467,,280992,PROD-2467,ORD-3467,468,Second Class,08-01-2024,Corporate,Technology,Chairs,India,Rajasthan,Jaipur
+01-06-2023,South,Electronics,90,46530,15,8422.12,Customer 469,CUST-1468,,564159,PROD-2468,ORD-3468,469,Second Class,10-01-2024,Home Office,Office Supplies,Binders,India,Punjab,Ludhiana
+01-06-2023,South,Clothing,63,44289,0,10298.27,Customer 470,CUST-1469,,379516,PROD-2469,ORD-3469,470,Standard Class,09-01-2024,Consumer,Furniture,Storage,India,Haryana,Gurugram
+01-06-2023,South,Furniture,280,290360,0,51746.89,Customer 471,CUST-1470,,196799,PROD-2470,ORD-3470,471,Standard Class,06-01-2024,Corporate,Furniture,Phones,India,Uttar Pradesh,Lucknow
+01-06-2023,South,Groceries,77,20405,10,4720.64,Customer 472,CUST-1471,,813365,PROD-2471,ORD-3471,472,Standard Class,23-01-2024,Home Office,Office Supplies,Phones,India,Madhya Pradesh,Bhopal
+01-06-2023,East,Electronics,498,820206,15,103489.27,Customer 473,CUST-1472,,670820,PROD-2472,ORD-3472,473,Same Day,27-01-2024,Consumer,Technology,Tables,India,Bihar,Patna
+01-06-2023,East,Clothing,350,391300,10,108289.12,Customer 474,CUST-1473,,686170,PROD-2473,ORD-3473,474,Standard Class,15-01-2024,Consumer,Office Supplies,Binders,India,West Bengal,Kolkata
+01-06-2023,East,Furniture,167,78323,5,14862.22,Customer 475,CUST-1474,,309328,PROD-2474,ORD-3474,475,Standard Class,17-01-2024,Corporate,Furniture,Binders,India,Odisha,Bhubaneswar
+01-06-2023,East,Groceries,381,404241,0,75260.58,Customer 476,CUST-1475,,377584,PROD-2475,ORD-3475,476,Second Class,14-01-2024,Corporate,Technology,Chairs,India,Telangana,Hyderabad
+01-06-2023,West,Electronics,325,649675,10,188221.68,Customer 477,CUST-1476,,190953,PROD-2476,ORD-3476,477,Standard Class,08-01-2024,Consumer,Furniture,Phones,India,Andhra Pradesh,Visakhapatnam
+01-06-2023,West,Clothing,362,280550,15,49340.81,Customer 478,CUST-1477,,698640,PROD-2477,ORD-3477,478,First Class,30-01-2024,Home Office,Furniture,Accessories,India,Chhattisgarh,Raipur
+01-06-2023,West,Furniture,156,138216,20,28569.58,Customer 479,CUST-1478,,585706,PROD-2478,ORD-3478,479,Second Class,13-01-2024,Home Office,Furniture,Phones,India,Jharkhand,Ranchi
+01-06-2023,West,Groceries,354,608880,15,115244.99,Customer 480,CUST-1479,,963521,PROD-2479,ORD-3479,480,Same Day,20-01-2024,Corporate,Technology,Tables,India,Assam,Guwahati
+01-07-2023,North,Electronics,416,807872,15,168022.16,Customer 481,CUST-1480,,745902,PROD-2480,ORD-3480,481,First Class,13-01-2024,Home Office,Technology,Binders,India,Himachal Pradesh,Shimla
+01-07-2023,North,Clothing,453,241449,5,30083.14,Customer 482,CUST-1481,,731049,PROD-2481,ORD-3481,482,First Class,21-01-2024,Home Office,Office Supplies,Binders,India,Uttarakhand,Dehradun
+01-07-2023,North,Furniture,342,425106,5,45855.64,Customer 483,CUST-1482,,625431,PROD-2482,ORD-3482,483,Second Class,18-01-2024,Home Office,Furniture,Chairs,India,Goa,Panaji
+01-07-2023,North,Groceries,168,211344,20,60608.18,Customer 484,CUST-1483,,567877,PROD-2483,ORD-3483,484,First Class,17-01-2024,Consumer,Office Supplies,Chairs,India,Sikkim,Gangtok
+01-07-2023,South,Electronics,374,517616,0,112288.58,Customer 485,CUST-1484,,671132,PROD-2484,ORD-3484,485,First Class,30-01-2024,Consumer,Office Supplies,Chairs,India,Maharashtra,Pune
+01-07-2023,South,Clothing,61,42029,15,12496.32,Customer 486,CUST-1485,,336577,PROD-2485,ORD-3485,486,Standard Class,05-01-2024,Home Office,Office Supplies,Chairs,India,Karnataka,Mysuru
+01-07-2023,South,Furniture,265,390610,10,40418.74,Customer 487,CUST-1486,,121549,PROD-2486,ORD-3486,487,Second Class,29-01-2024,Consumer,Furniture,Binders,India,Tamil Nadu,Coimbatore
+01-07-2023,South,Groceries,266,406714,20,111270.3,Customer 488,CUST-1487,,608969,PROD-2487,ORD-3487,488,First Class,24-01-2024,Corporate,Office Supplies,Binders,India,Kerala,Thiruvananthapuram
+01-07-2023,East,Electronics,272,382704,10,75687.11,Customer 489,CUST-1488,,313432,PROD-2488,ORD-3488,489,Second Class,12-01-2024,Corporate,Technology,Tables,India,Gujarat,Surat
+01-07-2023,East,Clothing,477,723609,15,90558.44,Customer 490,CUST-1489,,909249,PROD-2489,ORD-3489,490,Second Class,07-01-2024,Consumer,Furniture,Binders,India,Rajasthan,Udaipur
+01-07-2023,East,Furniture,175,88725,5,12454.39,Customer 491,CUST-1490,,774080,PROD-2490,ORD-3490,491,First Class,10-01-2024,Home Office,Office Supplies,Phones,India,Punjab,Amritsar
+01-07-2023,East,Groceries,424,521944,5,71855.93,Customer 492,CUST-1491,,418432,PROD-2491,ORD-3491,492,Second Class,19-01-2024,Corporate,Technology,Tables,India,Haryana,Faridabad
+01-07-2023,West,Electronics,313,271684,20,79513.58,Customer 493,CUST-1492,,794141,PROD-2492,ORD-3492,493,Same Day,06-01-2024,Home Office,Furniture,Phones,India,Uttar Pradesh,Kanpur
+01-07-2023,West,Clothing,224,317184,5,55462.59,Customer 494,CUST-1493,,662767,PROD-2493,ORD-3493,494,First Class,18-01-2024,Consumer,Furniture,Tables,India,Madhya Pradesh,Indore
+01-07-2023,West,Furniture,463,144919,5,32399.46,Customer 495,CUST-1494,,860859,PROD-2494,ORD-3494,495,Standard Class,07-01-2024,Corporate,Office Supplies,Chairs,India,Bihar,Gaya
+01-07-2023,West,Groceries,185,92870,0,9851.41,Customer 496,CUST-1495,,326630,PROD-2495,ORD-3495,496,Second Class,06-01-2024,Consumer,Technology,Binders,India,West Bengal,Howrah
+01-08-2023,North,Electronics,377,205088,15,48257.76,Customer 497,CUST-1496,,561493,PROD-2496,ORD-3496,497,Second Class,17-01-2024,Corporate,Furniture,Tables,India,Odisha,Cuttack
+01-08-2023,North,Clothing,196,295960,20,69075.38,Customer 498,CUST-1497,,233123,PROD-2497,ORD-3497,498,Standard Class,19-01-2024,Consumer,Furniture,Chairs,India,Telangana,Warangal
+01-08-2023,North,Furniture,410,748250,15,98662.37,Customer 499,CUST-1498,,388439,PROD-2498,ORD-3498,499,Standard Class,10-01-2024,Home Office,Technology,Accessories,India,Andhra Pradesh,Vijayawada
+01-08-2023,North,Groceries,241,186534,0,50977.45,Customer 500,CUST-1499,,210833,PROD-2499,ORD-3499,500,Standard Class,20-01-2024,Corporate,Technology,Accessories,India,Chhattisgarh,Bilaspur
+01-08-2023,South,Electronics,138,122406,20,31394.34,Customer 501,CUST-1500,,181416,PROD-2500,ORD-3500,501,Same Day,06-01-2024,Corporate,Office Supplies,Tables,India,Jharkhand,Jamshedpur
+01-08-2023,South,Clothing,126,174132,0,21213.1,Customer 502,CUST-1501,,345915,PROD-2501,ORD-3501,502,First Class,12-01-2024,Corporate,Furniture,Chairs,India,Assam,Silchar
+01-08-2023,South,Furniture,147,235788,15,55060.9,Customer 503,CUST-1502,,662514,PROD-2502,ORD-3502,503,Same Day,04-01-2024,Corporate,Office Supplies,Accessories,India,Himachal Pradesh,Solan
+01-08-2023,South,Groceries,131,78076,0,12760.67,Customer 504,CUST-1503,,397392,PROD-2503,ORD-3503,504,Second Class,10-01-2024,Consumer,Office Supplies,Chairs,India,Uttarakhand,Haridwar
+01-08-2023,East,Electronics,414,643356,0,79803.04,Customer 505,CUST-1504,,201233,PROD-2504,ORD-3504,505,Second Class,27-01-2024,Corporate,Office Supplies,Tables,India,Goa,Margao
+01-08-2023,East,Clothing,359,234786,0,38898.46,Customer 506,CUST-1505,,693012,PROD-2505,ORD-3505,506,First Class,14-01-2024,Home Office,Office Supplies,Chairs,India,Sikkim,Namchi
+01-08-2023,East,Furniture,114,148086,5,26542.13,Customer 507,CUST-1506,,538829,PROD-2506,ORD-3506,507,First Class,16-01-2024,Home Office,Furniture,Tables,India,Maharashtra,Nagpur
+01-08-2023,East,Groceries,454,466258,20,88467.2,Customer 508,CUST-1507,,467090,PROD-2507,ORD-3507,508,First Class,15-01-2024,Home Office,Furniture,Binders,India,Karnataka,Mangaluru
+01-08-2023,West,Electronics,354,330990,0,62518.68,Customer 509,CUST-1508,,464294,PROD-2508,ORD-3508,509,Second Class,25-01-2024,Home Office,Technology,Tables,India,Tamil Nadu,Madurai
+01-08-2023,West,Clothing,151,224990,10,30078.66,Customer 510,CUST-1509,,918772,PROD-2509,ORD-3509,510,First Class,11-01-2024,Consumer,Office Supplies,Chairs,India,Kerala,Kozhikode
+01-08-2023,West,Furniture,379,440019,0,77424.49,Customer 511,CUST-1510,,553490,PROD-2510,ORD-3510,511,Second Class,18-01-2024,Home Office,Technology,Storage,India,Gujarat,Vadodara
+01-08-2023,West,Groceries,331,174437,5,34161.11,Customer 512,CUST-1511,,508517,PROD-2511,ORD-3511,512,Same Day,22-01-2024,Corporate,Furniture,Binders,India,Rajasthan,Jodhpur
+01-09-2023,North,Electronics,166,239704,5,29192.03,Customer 513,CUST-1512,,377583,PROD-2512,ORD-3512,513,Standard Class,13-01-2024,Consumer,Furniture,Storage,India,Punjab,Jalandhar
+01-09-2023,North,Clothing,182,91546,20,13659.94,Customer 514,CUST-1513,,214644,PROD-2513,ORD-3513,514,Standard Class,10-01-2024,Consumer,Office Supplies,Accessories,India,Haryana,Panipat
+01-09-2023,North,Furniture,277,272014,10,68813.19,Customer 515,CUST-1514,,778431,PROD-2514,ORD-3514,515,Same Day,18-01-2024,Corporate,Office Supplies,Accessories,India,Uttar Pradesh,Noida
+01-09-2023,North,Groceries,375,261375,15,76087.5,Customer 516,CUST-1515,,641498,PROD-2515,ORD-3515,516,Second Class,14-01-2024,Home Office,Office Supplies,Storage,India,Madhya Pradesh,Gwalior
+01-09-2023,South,Electronics,70,42420,10,4306.16,Customer 517,CUST-1516,,865580,PROD-2516,ORD-3516,517,Standard Class,21-01-2024,Home Office,Office Supplies,Chairs,India,Bihar,Bhagalpur
+01-09-2023,South,Clothing,352,471680,15,137226.81,Customer 518,CUST-1517,,489749,PROD-2517,ORD-3517,518,First Class,22-01-2024,Consumer,Office Supplies,Chairs,India,West Bengal,Durgapur
+01-09-2023,South,Furniture,341,311674,10,34924.16,Customer 519,CUST-1518,,635643,PROD-2518,ORD-3518,519,First Class,07-01-2024,Home Office,Technology,Binders,India,Odisha,Rourkela
+01-09-2023,South,Groceries,326,110840,10,13332.3,Customer 520,CUST-1519,,234646,PROD-2519,ORD-3519,520,Same Day,23-01-2024,Consumer,Office Supplies,Accessories,India,Telangana,Nizamabad
+01-09-2023,East,Electronics,430,500090,20,78501.42,Customer 521,CUST-1520,,462984,PROD-2520,ORD-3520,521,Standard Class,10-01-2024,Home Office,Office Supplies,Phones,India,Andhra Pradesh,Guntur
+01-09-2023,East,Clothing,76,143792,15,29884.62,Customer 522,CUST-1521,,997940,PROD-2521,ORD-3521,522,Standard Class,14-01-2024,Home Office,Furniture,Storage,India,Chhattisgarh,Durg
+01-09-2023,East,Furniture,193,58865,15,14335.23,Customer 523,CUST-1522,,954463,PROD-2522,ORD-3522,523,Same Day,23-01-2024,Corporate,Office Supplies,Tables,India,Jharkhand,Dhanbad
+01-09-2023,East,Groceries,51,40188,15,10635.14,Customer 524,CUST-1523,,566960,PROD-2523,ORD-3523,524,First Class,19-01-2024,Consumer,Office Supplies,Chairs,India,Assam,Dibrugarh
+01-09-2023,West,Electronics,399,671118,15,91465.11,Customer 525,CUST-1524,,465038,PROD-2524,ORD-3524,525,Same Day,27-01-2024,Corporate,Technology,Binders,India,Himachal Pradesh,Dharamshala
+01-09-2023,West,Clothing,446,159668,0,34083.12,Customer 526,CUST-1525,,541176,PROD-2525,ORD-3525,526,Standard Class,07-01-2024,Consumer,Furniture,Chairs,India,Uttarakhand,Haldwani
+01-09-2023,West,Furniture,347,399397,15,73850.7,Customer 527,CUST-1526,,520621,PROD-2526,ORD-3526,527,First Class,08-01-2024,Corporate,Office Supplies,Binders,India,Goa,Vasco da Gama
+01-09-2023,West,Groceries,423,845154,0,147650.04,Customer 528,CUST-1527,,373615,PROD-2527,ORD-3527,528,Standard Class,15-01-2024,Home Office,Furniture,Phones,India,Sikkim,Gyalshing
+01-10-2023,North,Electronics,222,351870,10,35368.85,Customer 529,CUST-1528,,738576,PROD-2528,ORD-3528,529,Standard Class,02-01-2024,Consumer,Office Supplies,Phones,India,Maharashtra,Mumbai
+01-10-2023,North,Clothing,455,610155,20,168916.1,Customer 530,CUST-1529,,719775,PROD-2529,ORD-3529,530,First Class,02-01-2024,Consumer,Furniture,Tables,India,Karnataka,Bengaluru
+01-10-2023,North,Furniture,442,552058,0,126598.59,Customer 531,CUST-1530,,883027,PROD-2530,ORD-3530,531,Standard Class,24-01-2024,Corporate,Furniture,Phones,India,Tamil Nadu,Chennai
+01-10-2023,North,Groceries,427,792512,20,222837.11,Customer 532,CUST-1531,,392710,PROD-2531,ORD-3531,532,First Class,14-01-2024,Home Office,Furniture,Tables,India,Kerala,Kochi
+01-10-2023,South,Electronics,201,184719,0,27222.8,Customer 533,CUST-1532,,916894,PROD-2532,ORD-3532,533,Second Class,18-01-2024,Consumer,Office Supplies,Tables,India,Gujarat,Ahmedabad
+01-10-2023,South,Clothing,342,616626,5,151931.48,Customer 534,CUST-1533,,109396,PROD-2533,ORD-3533,534,Same Day,24-01-2024,Home Office,Technology,Binders,India,Rajasthan,Jaipur
+01-10-2023,South,Furniture,149,191167,5,50067.78,Customer 535,CUST-1534,,463878,PROD-2534,ORD-3534,535,Same Day,16-01-2024,Corporate,Technology,Accessories,India,Punjab,Ludhiana
+01-10-2023,South,Groceries,452,858348,5,163389.58,Customer 536,CUST-1535,,319133,PROD-2535,ORD-3535,536,Same Day,18-01-2024,Home Office,Technology,Tables,India,Haryana,Gurugram
+01-10-2023,East,Electronics,291,226980,0,56149.12,Customer 537,CUST-1536,,699903,PROD-2536,ORD-3536,537,Second Class,30-01-2024,Corporate,Office Supplies,Accessories,India,Uttar Pradesh,Lucknow
+01-10-2023,East,Clothing,275,239800,20,28570.47,Customer 538,CUST-1537,,452565,PROD-2537,ORD-3537,538,First Class,18-01-2024,Home Office,Furniture,Storage,India,Madhya Pradesh,Bhopal
+01-10-2023,East,Furniture,481,482924,10,106928.46,Customer 539,CUST-1538,,903820,PROD-2538,ORD-3538,539,Same Day,22-01-2024,Corporate,Office Supplies,Accessories,India,Bihar,Patna
+01-10-2023,East,Groceries,209,364914,5,55239.5,Customer 540,CUST-1539,,505903,PROD-2539,ORD-3539,540,First Class,27-01-2024,Corporate,Technology,Phones,India,West Bengal,Kolkata
+01-10-2023,West,Electronics,126,89208,0,17783.92,Customer 541,CUST-1540,,882248,PROD-2540,ORD-3540,541,Second Class,28-01-2024,Corporate,Furniture,Accessories,India,Odisha,Bhubaneswar
+01-10-2023,West,Clothing,307,473701,10,103934.44,Customer 542,CUST-1541,,974086,PROD-2541,ORD-3541,542,Same Day,26-01-2024,Consumer,Furniture,Binders,India,Telangana,Hyderabad
+01-10-2023,West,Furniture,195,346515,20,84383.18,Customer 543,CUST-1542,,459350,PROD-2542,ORD-3542,543,Standard Class,16-01-2024,Home Office,Office Supplies,Tables,India,Andhra Pradesh,Visakhapatnam
+01-10-2023,West,Groceries,290,190820,15,50327.14,Customer 544,CUST-1543,,360411,PROD-2543,ORD-3543,544,Same Day,25-01-2024,Home Office,Furniture,Phones,India,Chhattisgarh,Raipur
+01-11-2023,North,Electronics,117,168597,5,47393.45,Customer 545,CUST-1544,,504563,PROD-2544,ORD-3544,545,Second Class,13-01-2024,Consumer,Office Supplies,Storage,India,Jharkhand,Ranchi
+01-11-2023,North,Clothing,158,190390,15,22300.69,Customer 546,CUST-1545,,632697,PROD-2545,ORD-3545,546,Standard Class,18-01-2024,Corporate,Furniture,Tables,India,Assam,Guwahati
+01-11-2023,North,Furniture,402,763398,10,137593.01,Customer 547,CUST-1546,,204862,PROD-2546,ORD-3546,547,Same Day,08-01-2024,Corporate,Furniture,Storage,India,Himachal Pradesh,Shimla
+01-11-2023,North,Groceries,402,519786,0,116136.39,Customer 548,CUST-1547,,165795,PROD-2547,ORD-3547,548,First Class,27-01-2024,Consumer,Furniture,Phones,India,Uttarakhand,Dehradun
+01-11-2023,South,Electronics,318,241680,15,27436.12,Customer 549,CUST-1548,,808743,PROD-2548,ORD-3548,549,Same Day,20-01-2024,Consumer,Furniture,Tables,India,Goa,Panaji
+01-11-2023,South,Clothing,54,33858,10,7720.76,Customer 550,CUST-1549,,783667,PROD-2549,ORD-3549,550,Same Day,10-01-2024,Consumer,Technology,Binders,India,Sikkim,Gangtok
+01-11-2023,South,Furniture,313,454789,5,107342.2,Customer 551,CUST-1550,,874196,PROD-2550,ORD-3550,551,Second Class,03-01-2024,Consumer,Technology,Accessories,India,Maharashtra,Pune
+01-11-2023,South,Groceries,349,202420,5,33723.25,Customer 552,CUST-1551,,325783,PROD-2551,ORD-3551,552,First Class,17-01-2024,Corporate,Furniture,Accessories,India,Karnataka,Mysuru
+01-11-2023,East,Electronics,375,507375,15,117897.63,Customer 553,CUST-1552,,402658,PROD-2552,ORD-3552,553,Second Class,26-01-2024,Consumer,Office Supplies,Tables,India,Tamil Nadu,Coimbatore
+01-11-2023,East,Clothing,258,142674,15,15983.55,Customer 554,CUST-1553,,333285,PROD-2553,ORD-3553,554,Same Day,06-01-2024,Home Office,Technology,Phones,India,Kerala,Thiruvananthapuram
+01-11-2023,East,Furniture,349,581085,15,169870.41,Customer 555,CUST-1554,,251472,PROD-2554,ORD-3554,555,Second Class,12-01-2024,Consumer,Furniture,Phones,India,Gujarat,Surat
+01-11-2023,East,Groceries,336,512736,0,68755.64,Customer 556,CUST-1555,,380795,PROD-2555,ORD-3555,556,Second Class,23-01-2024,Home Office,Technology,Chairs,India,Rajasthan,Udaipur
+01-11-2023,West,Electronics,155,99975,0,26429.52,Customer 557,CUST-1556,,278126,PROD-2556,ORD-3556,557,Standard Class,05-01-2024,Consumer,Technology,Accessories,India,Punjab,Amritsar
+01-11-2023,West,Clothing,61,52216,15,15468.85,Customer 558,CUST-1557,,875553,PROD-2557,ORD-3557,558,First Class,29-01-2024,Corporate,Office Supplies,Storage,India,Haryana,Faridabad
+01-11-2023,West,Furniture,52,97708,20,12112.45,Customer 559,CUST-1558,,489195,PROD-2558,ORD-3558,559,First Class,26-01-2024,Consumer,Technology,Storage,India,Uttar Pradesh,Kanpur
+01-11-2023,West,Groceries,164,217628,20,53849.01,Customer 560,CUST-1559,,793676,PROD-2559,ORD-3559,560,Second Class,21-01-2024,Consumer,Furniture,Tables,India,Madhya Pradesh,Indore
+01-12-2023,North,Electronics,297,167211,0,44880.55,Customer 561,CUST-1560,,591877,PROD-2560,ORD-3560,561,Same Day,09-01-2024,Home Office,Technology,Binders,India,Bihar,Gaya
+01-12-2023,North,Clothing,198,258786,5,66658.2,Customer 562,CUST-1561,,121651,PROD-2561,ORD-3561,562,Second Class,02-01-2024,Consumer,Furniture,Phones,India,West Bengal,Howrah
+01-12-2023,North,Furniture,337,466408,20,123697.71,Customer 563,CUST-1562,,198480,PROD-2562,ORD-3562,563,Same Day,22-01-2024,Home Office,Technology,Accessories,India,Odisha,Cuttack
+01-12-2023,North,Groceries,87,149901,5,16882.12,Customer 564,CUST-1563,,522488,PROD-2563,ORD-3563,564,Same Day,22-01-2024,Home Office,Technology,Storage,India,Telangana,Warangal
+01-12-2023,South,Electronics,341,231880,5,39033.5,Customer 565,CUST-1564,,841136,PROD-2564,ORD-3564,565,Second Class,28-01-2024,Corporate,Furniture,Tables,India,Andhra Pradesh,Vijayawada
+01-12-2023,South,Clothing,410,221400,5,63628.49,Customer 566,CUST-1565,,513095,PROD-2565,ORD-3565,566,Standard Class,29-01-2024,Consumer,Technology,Accessories,India,Chhattisgarh,Bilaspur
+01-12-2023,South,Furniture,498,514932,15,80298.86,Customer 567,CUST-1566,,181932,PROD-2566,ORD-3566,567,First Class,22-01-2024,Home Office,Technology,Storage,India,Jharkhand,Jamshedpur
+01-12-2023,South,Groceries,203,288057,5,58514.71,Customer 568,CUST-1567,,407282,PROD-2567,ORD-3567,568,Same Day,15-01-2024,Corporate,Office Supplies,Storage,India,Assam,Silchar
+01-12-2023,East,Electronics,468,283140,10,60851.73,Customer 569,CUST-1568,,631335,PROD-2568,ORD-3568,569,First Class,02-01-2024,Corporate,Furniture,Chairs,India,Himachal Pradesh,Solan
+01-12-2023,East,Clothing,365,483260,15,68478.96,Customer 570,CUST-1569,,636314,PROD-2569,ORD-3569,570,Second Class,03-01-2024,Corporate,Technology,Tables,India,Uttarakhand,Haridwar
+01-12-2023,East,Furniture,288,218880,5,45515.34,Customer 571,CUST-1570,,681456,PROD-2570,ORD-3570,571,Same Day,14-01-2024,Home Office,Technology,Storage,India,Goa,Margao
+01-12-2023,East,Groceries,478,660118,5,180615.77,Customer 572,CUST-1571,,489017,PROD-2571,ORD-3571,572,Standard Class,17-01-2024,Corporate,Office Supplies,Binders,India,Sikkim,Namchi
+01-12-2023,West,Electronics,183,236070,15,62262.75,Customer 573,CUST-1572,,368723,PROD-2572,ORD-3572,573,Standard Class,06-01-2024,Consumer,Technology,Binders,India,Maharashtra,Nagpur
+01-12-2023,West,Clothing,448,729344,10,98246.21,Customer 574,CUST-1573,,729883,PROD-2573,ORD-3573,574,Standard Class,06-01-2024,Corporate,Furniture,Chairs,India,Karnataka,Mangaluru
+01-12-2023,West,Furniture,179,202270,5,58954.54,Customer 575,CUST-1574,,182774,PROD-2574,ORD-3574,575,Second Class,16-01-2024,Home Office,Office Supplies,Tables,India,Tamil Nadu,Madurai
+01-12-2023,West,Groceries,305,141825,0,30497.01,Customer 576,CUST-1575,,392015,PROD-2575,ORD-3575,576,First Class,12-01-2024,Home Office,Office Supplies,Binders,India,Kerala,Kozhikode
