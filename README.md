@@ -1,39 +1,50 @@
-# Sales Data Analysis Dashboard (Tableau)
+# Sales & Profit Dashboard (Tableau)
 
-This project focuses on analyzing sales data to uncover regional performance,
-sales trends, and actionable business insights using data visualization techniques.
+This project presents an interactive **Sales & Profit Dashboard** built using Tableau to analyze
+sales performance, profit trends, and customer distribution across states, categories, and time.
 
-The dashboard was created using Tableau and is supported by a cleaned CSV dataset.
-This repository is part of my data analytics portfolio.
+The dashboard helps in identifying high-performing regions, profitable product categories,
+and monthly sales patterns to support data-driven business decisions.
 
 ---
 
-## 📊 Project Overview
-- Analyzed sales performance across states and cities
-- Identified high-performing regions and key sales patterns
-- Designed an interactive dashboard for effective data exploration
+## 📊 Dashboard Preview
+
+![Sales and Profit Dashboard](sales_profit_dashboard.png)
+
+---
+
+## 📌 Project Overview
+- Analyzed sales and profit trends across multiple years
+- Evaluated state-wise and category-wise performance
+- Identified top-performing states by profit
+- Visualized customer count distribution by year
+- Enabled interactive filtering by year and category
 
 ---
 
 ## 🛠 Tools & Technologies
 - Tableau
 - CSV Dataset
-- Data Analysis & Visualization Techniques
+- Data Analysis & Visualization
 
 ---
 
 ## 📁 Files in this Repository
 - `Dashboard.twb`  
-  Tableau workbook containing the complete dashboard
+  Tableau workbook containing the complete interactive dashboard
 
 - `updated_sales_data_with_states_cities.csv`  
-  Cleaned sales dataset used for analysis and visualization
+  Cleaned sales dataset used for analysis
+
+- `sales_profit_dashboard.png`  
+  Dashboard preview image for quick viewing
 
 ---
 
 ## ▶ How to View the Dashboard
 - Open the `.twb` file using **Tableau Desktop** or **Tableau Reader (free)**
-- The dataset is included for reference and reproducibility
+- The dataset is included for reproducibility and reference
 
 ---
 
@@ -41,14 +52,14 @@ This repository is part of my data analytics portfolio.
 - Data Cleaning & Preparation
 - Exploratory Data Analysis (EDA)
 - Data Visualization & Dashboard Design
+- Sales & Profit Analysis
 - Business Insight Generation
 
 ---
 
 ## 📌 Purpose
-This project demonstrates the ability to analyze data, build meaningful dashboards,
-and communicate insights effectively. It reflects a strong interest in data analytics
-and business intelligence roles.
+This project is part of my data analytics portfolio and demonstrates my ability
+to analyze data, design insightful dashboards, and communicate findings effectively.
 
 ---
 
