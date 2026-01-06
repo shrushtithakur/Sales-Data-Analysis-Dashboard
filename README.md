@@ -65,5 +65,5 @@ to analyze data, design insightful dashboards, and communicate findings effectiv
 
 ## 👤 Author
 **Shrushti Thakur**  
-Master’s in Data Science (Pursuing)  
+Master’s in Data Science  
 Aspiring Data Analyst
